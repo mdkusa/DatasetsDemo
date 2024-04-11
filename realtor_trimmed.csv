@@ -1,0 +1,2010 @@
+brokered_by,status,price,bed,bath,acre_lot,street,city,state,zip_code,house_size,prev_sold_date
+10368,for_sale,175000,3,1,60,553526,Berlin,New York,12022,1176,
+22006,for_sale,425000,3,2,2.02,263302,Claverack,New York,12521,1600,44524
+48310,for_sale,225000,4,2,0.24,871278,Copake,New York,12521,1239,43132
+7797,for_sale,419000,3,3,1.9,286373,Copake,New York,12516,1800,
+23402,for_sale,365000,3,2,2,78544,Copake,New York,12517,1482,
+10368,for_sale,299999,4,1,4.2,423366,Copake,New York,12516,1500,38845
+86078,for_sale,374900,3,2,2.9,828396,Hillsdale,New York,12529,1404,38708
+32016,for_sale,375000,3,2,1.2,1427842,Millerton,New York,12546,1350,43343
+23402,for_sale,365000,5,4,2,78544,Copake,New York,12517,1482,
+52475,for_sale,203713,,,15.8,91301,Hillsdale,New York,12529,,
+38575,for_sale,949000,5,4,100.88,1499866,Austerlitz,New York,12017,7500,
+94682,for_sale,795000,,,30,1852855,Canaan,New York,12029,,
+10710,for_sale,489900,3,2,10,1259936,Austerlitz,New York,12017,1152,36864
+26779,for_sale,194900,4,3,1.29,1431678,Nassau,New York,12123,2274,
+10211,for_sale,40000,2,1,0.2,1202236,Nassau,New York,12123,690,38687
+10368,for_sale,125000,3,2,1,1531619,Hoosick Falls,New York,12090,980,
+99005,for_sale,435000,3,2,5.01,1470895,East Chatham,New York,12060,2504,44144
+52568,for_sale,429900,4,3,2.15,1213044,Valatie,New York,12184,2248,34309
+38575,for_sale,299900,3,1,0.32,330084,Niverville,New York,12130,1608,
+3438,for_sale,649000,4,4,12.8,1645610,Kinderhook,New York,12106,1980,39198
+26848,for_sale,379500,4,3,0.28,1567871,Philmont,New York,12565,2080,
+38575,for_sale,299900,3,1,0.32,330084,Kinderhook,New York,12106,1608,
+9071,for_sale,49000,,,5,1450993,Canaan,New York,12029,,
+38668,for_sale,100000,,,10,1953623,Hillsdale,New York,12529,,
+94682,for_sale,299000,,,78,1866447,Canaan,New York,12029,,
+94681,for_sale,495000,,,25.3,1839581,Austerlitz,New York,12017,,
+9072,for_sale,349000,,,133.74,1983351,Canaan,New York,12029,,
+54746,for_sale,625000,,,19.7,598446,Hillsdale,New York,12529,,44216
+27628,for_sale,38500,,,8.98,1923520,Hoosick Falls,New York,12090,,
+27628,for_sale,61900,3,2,0.2,871535,Berlin,New York,12090,1344,
+39686,for_sale,759000,3,1,73,863172,Claverack,New York,12513,1800,
+54745,for_sale,759000,3,1,73.04,863173,Claverack,New York,12513,1800,
+23684,for_sale,34900,,,5,1935282,Pittstown,New York,12185,,
+23402,for_sale,32900,,,0.34,148300,Copake,New York,12516,,40001
+26849,for_sale,39500,,,0.22,1486107,Claverack,New York,12565,,
+26849,for_sale,39500,,,0.22,1450895,Claverack,New York,12565,,
+23684,for_sale,34900,,,1.29,897017,Pittstown,New York,12185,,
+22550,for_sale,49000,,,2.4,1110796,Schodack Landing,New York,12123,,
+89855,for_sale,89000,,,6.8,1937439,New Lebanon,New York,12212,,
+89855,for_sale,139000,,,31.5,1937439,New Lebanon,New York,12212,,
+54745,for_sale,759000,,,73.04,863173,Claverack,New York,12513,,
+37676,for_sale,499000,,,18.9,1053780,Hillsdale,New York,12529,,42060
+54745,for_sale,525000,,,31,1917424,Taghkanic,New York,12521,,
+10368,for_sale,123000,3,1,1.45,1743456,Stephentown,New York,12168,1386,
+27628,for_sale,29900,,,5.32,1904378,Grafton,New York,12138,,
+45329,for_sale,34000,,,2.24,1260882,Hoosick,New York,12090,,
+27628,for_sale,92500,3,2,1,439188,Hoosick,New York,12028,1056,
+68030,for_sale,359000,,,43.69,1743402,Pittstown,New York,12094,,42247
+54745,for_sale,879000,,,59,1000885,Copake,New York,12521,,
+54745,for_sale,465000,,,50.3,1916811,Taghkanic,New York,12521,,
+39686,for_sale,525000,,,32,1917424,Craryville,New York,12521,,
+23402,for_sale,98000,,,6,791692,Hillsdale,New York,12529,,
+56478,for_sale,129000,,,6,1637822,Hillsdale,New York,12529,,
+56480,for_sale,129000,,,6,1637941,Hillsdale,New York,12529,,
+10858,for_sale,1395000,,,103.4,1915768,Austerlitz,New York,12017,,
+37676,for_sale,150000,,,1.2,548055,Hillsdale,New York,12529,,
+22549,for_sale,2100000,2,1,274,834160,New Lebanon,New York,12125,2600,
+7797,for_sale,849000,,7,1.1,983560,Austerlitz,New York,12017,7000,
+7797,for_sale,849000,7,7,1.1,983560,Austerlitz,New York,12017,7000,
+9072,for_sale,225000,,,22.7,1645935,Canaan,New York,12029,,39325
+9071,for_sale,225000,,,22.7,1987371,Canaan,New York,12029,,
+9072,for_sale,225000,,,22.7,1987371,Canaan,New York,12029,,
+24097,for_sale,265000,,,11.28,1905924,Hillsdale,New York,12529,,
+94681,for_sale,325000,,,16.7,1738940,Austerlitz,New York,12017,,
+15932,for_sale,109900,,,4.1,1732904,Hillsdale,New York,12529,,
+30768,for_sale,439000,3,2,1.85,1711966,Copake Falls,New York,12517,1657,
+10368,for_sale,375000,,,75,1878357,Austerlitz,New York,12017,,
+9072,for_sale,399000,,,133.74,1983351,Canaan,New York,12029,,
+24097,for_sale,350000,,,19.68,1113420,Hillsdale,New York,12529,,39604
+9072,for_sale,150000,,,40.1,1882334,Austerlitz,New York,12017,,
+9071,for_sale,150000,,,14.87,1882334,Austerlitz,New York,12017,,
+38575,for_sale,279000,6,4,0.77,828014,Canaan,New York,12029,5082,
+16818,for_sale,245000,3,2,0.49,170597,Austerlitz,New York,12958,1302,
+9072,for_sale,150000,,,14.87,1882334,Austerlitz,New York,12017,,
+38575,for_sale,279000,6,5,0.7,828014,Canaan,New York,12029,5082,
+9071,for_sale,190000,,,18.98,1882334,Austerlitz,New York,12017,,
+9072,for_sale,190000,,,18.98,1882334,Austerlitz,New York,12017,,
+9072,for_sale,190000,,,14.87,1882334,Austerlitz,New York,12017,,
+22550,for_sale,299900,4,2,11.22,458246,Canaan,New York,12029,1931,44609
+9071,for_sale,190000,1,1,0.5,331255,Copake,New York,12529,418,
+23402,for_sale,245000,3,2,0.49,170592,Austerlitz,New York,12017,1302,
+101697,for_sale,329000,4,2,6.9,1141857,Hillsdale,New York,12529,1900,37914
+24097,for_sale,790000,3,2,4.25,1731932,Copake,New York,12517,1512,36195
+21935,for_sale,625000,2,2,1.5,148013,Austerlitz,New York,12017,1834,
+88137,for_sale,3500000,4,4,217,848914,Austerlitz,New York,12017,4000,42717
+70767,for_sale,2150000,,,367,77169,Canaan,New York,12029,,
+9071,for_sale,49000,,,5,1963639,Canaan,New York,12029,,
+24605,for_sale,4800000,,,228.1,201805,Austerlitz,New York,12017,,42018
+37676,for_sale,289000,3,3,2.34,1010197,Canaan,New York,12029,2000,
+10368,for_sale,339000,4,5,0.51,1310371,New Lebanon,New York,12125,3133,43719
+52568,for_sale,318464,,,24.7,653206,Hillsdale,New York,12529,,
+24097,for_sale,75000,,,1,1926545,Copake Falls,New York,12517,,
+104484,for_sale,100000,,,7.9,1969105,Canaan,New York,12029,,
+58424,for_sale,625000,4,2,5.2,1300161,Copake Falls,New York,12517,2029,43761
+38575,for_sale,369900,3,2,0.65,1724811,Canaan,New York,12029,1600,43958
+52568,for_sale,203713,,,15.8,91299,Hillsdale,New York,12529,,
+24097,for_sale,1575000,4,5,18.5,1708546,Hillsdale,New York,12529,3024,35423
+45503,for_sale,595000,9,6,1.2,100060,Copake,New York,12517,5512,
+52568,for_sale,429474,,,33.31,1313232,Hillsdale,New York,12529,,
+52568,for_sale,450000,,,22,601692,Hillsdale,New York,12529,,
+52568,for_sale,1500000,,,116.34,695893,Hillsdale,New York,12529,,
+14081,for_sale,598500,3,3,4,152246,Copake,New York,12516,2240,
+10368,for_sale,105000,4,2,22.52,1584616,Nassau,New York,12123,1795,
+10368,for_sale,65000,,,6.98,1888023,Hoosick,New York,12090,,
+32016,for_sale,159000,3,1,0.38,1468522,Millerton,New York,12546,1656,40028
+10368,for_sale,50000,,,11,1866466,New Lebanon,New York,12125,,
+77395,for_sale,120000,2,2,17.5,1760903,Pittstown,New York,12094,1431,
+45329,for_sale,34000,,,2.1,1256083,Hoosick,New York,12090,,
+45690,for_sale,254900,2,1,0.29,1745926,Berlin,New York,12153,1163,
+22550,for_sale,39000,,,1.08,1917871,Sand Lake,New York,12018,,
+9071,for_sale,57000,,,1.27,1863354,Millerton,New York,12546,,
+10858,for_sale,375000,,,23,1839847,Chatham,New York,12037,,
+73905,for_sale,1895000,,,89.9,1882723,Claverack,New York,12513,,
+107913,for_sale,140000,,,73.6,1862119,Copake,New York,12517,,
+9072,for_sale,67000,,,5.34,113847,New Lebanon,New York,12024,,
+68030,for_sale,29500,,,5.84,1946043,Petersburgh,New York,12138,,
+68030,for_sale,29500,,,5.04,1854512,Hoosick,New York,12028,,
+89856,for_sale,68000,,,7.84,330599,Stephentown,New York,12168,,
+89856,for_sale,39000,,,2.32,197802,Stephentown,New York,12168,,
+23402,for_sale,89000,,,0.4,268048,Copake,New York,12516,,
+89856,for_sale,89000,,,6.8,1937439,New Lebanon,New York,12212,,
+26849,for_sale,120000,,,22.74,1869625,Claverack,New York,12513,,
+89856,for_sale,44999,,,3.02,15124,Stephentown,New York,12168,,
+67942,for_sale,160000,,,25,,Nassau,New York,12018,,
+89856,for_sale,75000,,,5.45,1937439,New Lebanon,New York,12212,,
+48974,for_sale,129000,,,3.3,1861185,Caroga,New York,13452,,
+39686,for_sale,525000,,,,1916812,Craryville,New York,12521,,
+94681,for_sale,499000,,,88,1917593,Canaan,New York,12029,,
+73905,for_sale,450000,,,32,1785402,Ancram,New York,12503,,
+104484,for_sale,700000,,,29.16,1880836,Nassau,New York,12169,,
+61970,for_sale,19995,,,1.27,1877490,Hoosick Falls,New York,12090,,
+22550,for_sale,53000,,,5.42,1983189,East Nassau,New York,12062,,
+52568,for_sale,339900,8,6,1.35,1090432,Stephentown,New York,12168,2722,
+61970,for_sale,69900,,,2.66,1449845,Hoosick,New York,12090,,39804
+9071,for_sale,250000,,,127.49,1888911,New Lebanon,New York,12062,,
+22550,for_sale,45000,,,1,1966231,Poestenkill,New York,12140,,
+10368,for_sale,45000,,,1.95,1866476,Canaan,New York,12029,,
+10368,for_sale,45000,,,1.95,1866447,Canaan,New York,12029,,
+104484,for_sale,129000,,,24.62,555790,Nassau,New York,12018,,
+89856,for_sale,139000,,,31.5,1937439,New Lebanon,New York,12212,,
+23402,for_sale,849000,,,160,1548001,Hillsdale,New York,12529,,
+54745,for_sale,500000,,,32.1,1844565,Claverack,New York,12513,,
+22550,for_sale,1300000,4,4,37,1060423,East Nassau,New York,12062,4000,
+61576,for_sale,79900,,,8.66,1852217,Hoosick,New York,12090,,
+22550,for_sale,95000,,,68,1935280,Berlin,New York,12022,,
+27628,for_sale,910000,3,3,288.92,1484038,White Creek,New York,12057,7834,
+38575,for_sale,49900,2,1,0.13,179494,Schodack Landing,New York,12123,1200,34121
+9072,for_sale,22000,,,1,1953566,Canaan,New York,12029,,
+9071,for_sale,19000,,,1,1866447,Canaan,New York,12029,,
+62113,for_sale,89900,,,16,1941591,Pittstown,New York,12094,,
+62113,for_sale,59900,,,5,1941592,Pittstown,New York,12094,,
+9071,for_sale,42000,,,3.79,1956848,Copake,New York,12516,,
+41676,for_sale,75000,,,4.23,1243597,Stephentown,New York,12168,,
+9072,for_sale,250000,,,127.49,1888911,New Lebanon,New York,12125,,
+9072,for_sale,115000,,,8.4,1540106,Chatham,New York,12037,,
+41606,for_sale,406000,,,127,988909,Nassau,New York,12123,,
+7797,for_sale,250000,,,9.4,198600,Copake,New York,12516,,
+94682,for_sale,499000,,,88,1917593,Canaan,New York,12029,,
+89856,for_sale,151999,,,13.19,330599,Stephentown,New York,12168,,
+94682,for_sale,895000,,,43.46,1953618,Copake,New York,12516,,
+54745,for_sale,2100000,,,102,1844588,Claverack,New York,12513,,
+73905,for_sale,1300000,,,127,1790619,Ancram,New York,12503,,
+7797,for_sale,79000,,,9.06,1844479,Chatham,New York,12184,,
+10368,for_sale,59900,,,9.02,1860017,Petersburgh,New York,12138,,
+9072,for_sale,52000,,,5.9,1866466,New Lebanon,New York,12125,,
+9071,for_sale,52000,,,5.9,1994341,New Lebanon,New York,12125,,
+10368,for_sale,19900,,,2.09,1872806,Berlin,New York,99999,,
+60629,for_sale,180000,,,35,1052374,Chatham,New York,12136,,
+22550,for_sale,295000,10,5,1,1110720,Schodack Landing,New York,12123,5100,
+89855,for_sale,151999,,,13.2,330600,Stephentown,New York,12168,,
+7797,for_sale,109000,,,0.36,1907076,Copake,New York,12516,,
+38575,for_sale,698000,3,2,5.03,1138823,Ghent,New York,12075,1735,
+22550,for_sale,277000,4,3,0.33,117964,Chatham Village,New York,12037,2250,44574
+99005,for_sale,399000,,,43.8,1660320,Craryville,New York,12521,,
+70767,for_sale,595000,,,51.52,1909631,Ghent,New York,12075,,
+10368,for_sale,199000,5,2,1.5,1669113,New Lebanon,New York,12125,2360,37424
+17998,for_sale,43000,,,8.37,1912801,Pittstown,New York,12094,,
+22550,for_sale,29999,,,3.63,1920646,Stephentown,New York,12168,,
+78096,for_sale,39900,,,4.12,1990841,New Lebanon,New York,12125,,
+43677,for_sale,25000,,,1.54,1926922,White Creek,New York,12816,,
+89856,for_sale,49000,,,5.83,114172,Stephentown,New York,12168,,
+10368,for_sale,399900,,,119.6,1909689,Petersburgh,New York,12138,,
+78096,for_sale,129900,,,40,1990843,New Lebanon,New York,12125,,
+45690,for_sale,25000,,,0.22,822665,Hoosick,New York,12090,,
+45690,for_sale,25000,,,0.22,871580,Hoosick,New York,12090,,
+45690,for_sale,25000,,,0.22,920290,Hoosick,New York,12090,,
+104467,for_sale,34900,,,2,1286454,Nassau,New York,12018,,
+39686,for_sale,500000,,,32,1844565,Craryville,New York,12513,,
+89856,for_sale,115000,,,15.99,386547,Stephentown,New York,12168,,
+75667,for_sale,80000,,,1.5,1953604,Chatham,New York,12037,,
+84271,for_sale,85000,,,12,1887183,Claverack,New York,12513,,
+10368,for_sale,159900,3,2,0.23,822689,Hoosick,New York,12090,2400,39980
+10368,for_sale,144900,2,1,1.1,102297,White Creek,New York,12057,2780,
+10858,for_sale,7950000,7,6,134.39,531846,Craryville,New York,12521,4035,
+10368,for_sale,85000,,,18.6,1416948,Nassau,New York,12123,,
+52568,for_sale,94900,,,17.77,1996258,Stephentown,New York,12168,,
+41051,for_sale,59000,,,6,1953449,Millerton,New York,12546,,
+68030,for_sale,169900,,,74.65,1943992,Grafton,New York,12138,,
+78380,for_sale,129900,,,40,1990840,New Lebanon,New York,12125,,
+78380,for_sale,39900,,,4.12,1990840,New Lebanon,New York,12125,,
+10368,for_sale,215000,4,3,1,1577704,New Lebanon,New York,12125,2148,
+41534,for_sale,1999500,5,5,45.8,473360,Chatham,New York,12060,6518,36286
+73905,for_sale,495000,4,2,37.5,1748098,Ancram,New York,12503,1767,
+73905,for_sale,495000,5,2,45,1750489,Ancram,New York,12503,2263,
+81604,for_sale,145000,,,16.65,1838668,Chatham,New York,12136,,
+60629,for_sale,135000,,,8,1499473,Chatham,New York,12136,,
+75667,for_sale,450000,,6,0.5,145453,East Chatham,New York,12060,7022,
+39686,for_sale,2100000,,,102,1844565,Claverack,New York,12513,,
+22552,for_sale,49000,3,1,0.39,1757679,Hoosick Falls,New York,12090,1161,
+45690,for_sale,125000,,,15,1985480,Schodack Landing,New York,12123,,
+15018,for_sale,60000,,,18,521967,Stephentown,New York,12168,,
+15018,for_sale,60000,,,18,1905660,Stephentown,New York,12168,,
+10368,for_sale,44000,,,5.6,419958,Petersburgh,New York,12138,,
+10368,for_sale,270000,2,2,6.69,1832075,Stephentown,New York,12169,1000,36700
+61576,for_sale,49900,,,1.82,1670125,Hoosick,New York,12090,,38663
+75667,for_sale,299000,3,2,1.1,516432,Ghent,New York,12075,1748,
+10368,for_sale,74900,,,6.62,1815391,Grafton,New York,12082,,
+5336,for_sale,640000,5,4,7.08,1047643,Kinderhook,New York,12184,1968,34164
+104484,for_sale,899000,3,2,1.9,315940,Sand Lake,New York,12018,5254,
+104484,for_sale,899000,11,6,1.9,315940,Sand Lake,New York,12018,5254,
+52568,for_sale,799000,4,2,100,1499660,Nassau,New York,12123,2976,
+10368,for_sale,325000,,,159.13,211898,Petersburgh,New York,12138,,
+75667,for_sale,450000,2,1,0.38,225676,East Chatham,New York,12060,1200,
+22552,for_sale,1300000,5,4,37,1085457,East Nassau,New York,12062,4000,
+94424,for_sale,95000,,,2.03,522752,Schodack Landing,New York,12063,,42304
+9071,for_sale,275000,,,127.49,1888911,New Lebanon,New York,12062,,
+22006,for_sale,1150000,,,113,1034539,Schodack Landing,New York,12123,,
+16914,for_sale,530000,,,48.24,1998750,Ancramdale,New York,12503,,
+104032,for_sale,55000,,,7,1872486,Austerlitz,New York,12017,,
+84271,for_sale,79900,,,5.59,1292356,Claverack,New York,12513,,38869
+45690,for_sale,218500,,,115,1880836,Grafton,New York,12138,,
+37185,for_sale,63000,,,5.66,1952179,Stephentown,New York,12168,,
+41606,for_sale,325000,5,2,10,988922,Nassau,New York,12123,2673,
+37676,for_sale,325000,,,22.46,1953604,Chatham,New York,12184,,
+24605,for_sale,1995000,,,98.3,606517,Ghent,New York,12075,,
+104467,for_sale,54900,,,9.08,1253609,Nassau,New York,12018,,
+10368,for_sale,89900,,,25.1,501462,Grafton,New York,12138,,43164
+52569,for_sale,169000,3,1,0.14,1079249,Valatie,New York,12184,2313,38678
+23684,for_sale,39900,,,5.5,953290,Grafton,New York,12180,,44386
+82304,for_sale,79900,,,1.71,654231,Pittstown,New York,12090,1720,
+54255,for_sale,265000,3,2,0.53,458985,New Lebanon,New York,12125,2250,37384
+104484,for_sale,30000,,,2.04,1952179,Stephentown,New York,12168,,
+68030,for_sale,209000,,,74.65,1943992,Grafton,New York,12138,,
+74021,for_sale,122750,4,2,0.13,1568175,Hoosick Falls,New York,12090,1978,43252
+22552,for_sale,169900,,,12.1,1438193,Schodack Landing,New York,12033,,
+6419,for_sale,220000,,,15.87,1866476,New Lebanon,New York,12125,,
+24097,for_sale,925000,7,4,2.9,914667,Copake,New York,12516,3416,
+22550,for_sale,650000,4,3,7.94,237038,Grafton,New York,12082,3088,
+104467,for_sale,32000,,,5.5,1884365,New Lebanon,New York,12125,,
+10368,for_sale,60000,,,9,362333,New Lebanon,New York,12029,,
+99515,for_sale,164900,3,1,1,986450,Stephentown,New York,12169,1845,39191
+43677,for_sale,25000,,,1.54,1949846,White Creek,New York,12816,,
+10368,for_sale,60000,,,7,1969233,New Lebanon,New York,12125,,
+81604,for_sale,479000,3,3,1.87,792860,Poestenkill,New York,12018,4622,
+45690,for_sale,175000,,,40.01,1917078,Nassau Village,New York,12123,,
+10368,for_sale,378000,5,3,0.82,1474368,New Lebanon,New York,12125,3075,43298
+10368,for_sale,38000,,,1.29,34311,Hoosick Falls,New York,12090,,
+10368,for_sale,38000,,,1.19,76035,Hoosick Falls,New York,12090,,
+65800,for_sale,675000,3,3,2.5,856111,Sand Lake,New York,12018,3600,37190
+10368,for_sale,38000,,,1.08,130544,Hoosick Falls,New York,12090,,
+99005,for_sale,1400000,9,6,1.4,1141828,Philmont,New York,12565,6157,
+21935,for_sale,1295000,5,5,5.58,1042812,New Lebanon,New York,12125,5212,
+10858,for_sale,1495000,3,3,24.06,137138,Ancram,New York,12502,3228,41936
+24183,for_sale,275000,,,27.39,1144460,Chatham,New York,12136,,38070
+10858,for_sale,2100000,4,4,1.56,810163,Copake,New York,12521,3100,35737
+15018,for_sale,495000,,,138,1629003,Nassau,New York,12123,,
+10368,for_sale,495000,3,2,40,1531805,Grafton,New York,12138,4034,
+52568,for_sale,189900,4,1,4.79,1100868,Sand Lake,New York,12061,1607,43431
+97472,for_sale,109000,4,3,0.05,694686,Hoosick Falls,New York,12090,1890,43914
+107525,for_sale,129900,2,2,0.1,1499372,Hoosick Falls,New York,12090,1120,38488
+14081,for_sale,225000,,,60,1758063,Claverack,New York,12534,,
+42849,for_sale,312000,4,2,0.45,1470926,Ghent,New York,12075,4520,44371
+104484,for_sale,424000,3,2,48.96,876350,Stephentown,New York,12168,1585,
+41606,for_sale,325000,6,3,10,988922,Nassau,New York,12123,3973,
+24605,for_sale,35000,,,2.5,1899704,Austerlitz,New York,12165,,
+24097,for_sale,495000,3,2,0.21,1815625,Copake,New York,12529,1167,
+62218,for_sale,345000,2,1,1.5,1190285,Chatham,New York,12132,,
+52568,for_sale,425000,,,94.26,1854249,Sand Lake,New York,12018,,
+46468,for_sale,149900,3,2,0.23,331350,Sand Lake,New York,12018,2694,39757
+21072,for_sale,239900,4,2,2.03,1505255,Stephentown,New York,12168,3050,38348
+45690,for_sale,38600,,,3,1304364,Stephentown,New York,12168,,37911
+45690,for_sale,245000,3,2,0.39,1136572,Nassau,New York,12123,1400,42361
+22552,for_sale,325000,12,8,1,329581,Nassau,New York,12123,2130,
+56548,for_sale,590000,3,3,7.54,93685,Hillsdale,New York,12529,2450,43748
+45329,for_sale,55000,,,5.05,905328,Hoosick,New York,12089,,
+75667,for_sale,450000,9,6,0.5,145383,East Chatham,New York,12060,7022,
+10368,for_sale,250000,,,2.67,405022,Hoosick Falls,New York,12090,9350,41183
+22552,for_sale,150000,2,2,0.45,1732722,Pittstown,New York,12180,1550,43923
+45690,for_sale,42000,,,7.71,1922455,Stephentown,New York,12168,,
+10368,for_sale,59900,,,10.96,370851,Grafton,New York,12082,,
+84271,for_sale,340000,5,3,0.52,1213243,Copake,New York,12521,2400,36678
+3438,for_sale,82500,,,2.75,1866425,Kinderhook,New York,12184,,
+73905,for_sale,495000,3,,70,1765961,Ancram,New York,12503,2200,
+3438,for_sale,210000,,,20.35,1953478,Kinderhook,New York,12184,,
+107561,for_sale,205000,3,2,0.36,925823,Sand Lake,New York,12018,1592,
+3438,for_sale,80000,,,2.01,1953478,Kinderhook,New York,12184,,
+84271,for_sale,290000,3,2,0.24,726166,Ghent,New York,12075,1713,
+22552,for_sale,265000,4,2,0.6,471108,Petersburgh,New York,12138,1950,43383
+37676,for_sale,299000,3,3,3,867726,Northeast,New York,12546,1768,
+53233,for_sale,350000,5,3,1.5,1086078,Greenville,New York,12405,2136,
+14081,for_sale,269000,,,68,1759771,Claverack,New York,12534,,
+22006,for_sale,2850000,40,36,1.78,12315,Claverack,New York,12565,27443,
+99996,for_sale,1800000,,,358,1966234,Taghkanic,New York,12521,,
+94682,for_sale,1295000,,,60,1852855,Canaan,New York,12029,,
+22552,for_sale,349900,3,3,19.1,496784,Stephentown,New York,12168,2864,
+15371,for_sale,280000,5,4,2,447134,Kinderhook,New York,12184,2000,43518
+61970,for_sale,650000,4,2,14.61,1329110,Hoosick Falls,New York,12090,3860,
+24605,for_sale,55500,,,5.54,1866466,New Lebanon,New York,12125,,
+24605,for_sale,52000,,,5.22,1888859,New Lebanon,New York,12125,,
+104467,for_sale,549000,4,3,2.1,831261,Poestenkill,New York,12018,5127,43704
+84271,for_sale,229900,2,1,2.39,1303878,Claverack,New York,12513,720,44279
+104484,for_sale,250000,2,2,65,517506,Troy,New York,12180,1473,
+41051,for_sale,350000,3,3,0.15,1637754,Northeast,New York,12546,1802,34779
+10858,for_sale,75000,,,0.23,1907493,Copake,New York,12516,,
+69225,for_sale,215000,2,1,0.25,1139725,Philmont,New York,12565,806,
+45329,for_sale,25000,,,0.29,1903995,Hoosick Falls,New York,12090,,
+24605,for_sale,749000,4,4,3,174922,Ghent,New York,12075,4179,
+3438,for_sale,165000,,,8.4,1994620,Kinderhook,New York,12106,,
+3438,for_sale,155000,,,4.4,1994620,Kinderhook,New York,12106,,
+24605,for_sale,289000,,,10.06,1979618,Taghkanic,New York,12502,,
+3438,for_sale,995000,,,92,1936748,Kinderhook,New York,12184,,
+3438,for_sale,225000,,,9,1994620,Kinderhook,New York,12106,,
+24605,for_sale,389000,,,76.95,1866430,Chatham,New York,12115,,
+91509,for_sale,105000,5,3,1.14,17690,Stephentown,New York,12168,3092,
+82304,for_sale,79900,,1,1.81,1367866,Petersburgh,New York,12138,1944,
+10368,for_sale,225700,3,2,0.81,1652576,Claverack,New York,12513,2104,
+21912,for_sale,325000,4,3,1.24,1120233,Ghent,New York,12075,2464,
+10368,for_sale,80000,,,0.52,1204693,New Lebanon,New York,12125,,
+61970,for_sale,195000,2,1,1.7,1315980,Hoosick Falls,New York,12090,1010,
+45503,for_sale,399900,5,2,4.3,1134333,Spencertown,New York,12165,2499,
+22550,for_sale,349900,3,2,1.25,1133962,Sand Lake,New York,12196,2000,
+40690,for_sale,55000,,,1.03,574336,Poestenkill,New York,12140,,
+88137,for_sale,425000,3,4,0.91,385987,Ghent,New York,12075,2120,44627
+24098,for_sale,319000,4,2,1.1,1011540,Copake,New York,12516,,
+17052,for_sale,369000,1,1,14.62,1164153,Copake,New York,12502,880,38240
+107525,for_sale,274900,,,68.39,226356,Hoosick Falls,New York,12090,,
+37676,for_sale,1200000,5,2,103,472321,Ghent,New York,12075,2657,
+45329,for_sale,42000,,,10,1511025,Hoosick Falls,New York,12090,,
+10368,for_sale,105000,,,54.38,577959,Petersburgh,New York,12138,,44461
+45690,for_sale,118500,,,19.56,1935649,Poestenkill,New York,12018,,
+10485,for_sale,365000,3,2,1,1213248,Millerton,New York,12546,2710,43488
+45949,for_sale,325000,4,3,1.9,1138276,Hillsdale,New York,12521,1704,37643
+104467,for_sale,189000,2,1,0.21,1815358,Sand Lake,New York,12018,928,
+81604,for_sale,239900,3,2,0.25,1212309,Chatham,New York,12037,1412,38518
+10368,for_sale,548000,3,2,2.9,867747,East Nassau,New York,12062,2780,36216
+24605,for_sale,299000,,,31.95,1866467,New Lebanon,New York,12125,,
+24097,for_sale,399000,3,2,3.79,1169886,Copake,New York,12521,1560,42213
+52568,for_sale,129000,3,1,0.14,1470150,Hoosick Falls,New York,12090,2926,35318
+45488,for_sale,160000,2,2,0.22,1761950,Millerton,New York,12546,576,
+36496,for_sale,39900,,,2.88,9488,Pittstown,New York,12180,,37447
+23402,for_sale,395000,3,2,5,249833,Chatham,New York,12136,2042,44235
+22550,for_sale,514900,4,3,20.81,244090,Hoosick Falls,New York,12090,3900,
+10368,for_sale,229500,2,2,2.3,1276043,Schodack Landing,New York,12123,980,
+24097,for_sale,19500,,,0.31,1858177,Copake,New York,12516,,
+5336,for_sale,225000,2,1,0.06,1761318,Valatie,New York,12184,800,
+24098,for_sale,495000,3,2,0.18,342191,Copake,New York,12516,1080,
+62113,for_sale,44000,,,0.06,523089,Hoosick Falls,New York,12090,1650,
+68030,for_sale,143900,8,4,0.11,330139,Hoosick Falls,New York,12090,5342,
+68030,for_sale,143900,10,4,0.11,329093,Hoosick Falls,New York,12090,3762,
+62999,for_sale,220000,3,2,1.57,1733348,Nassau,New York,12123,1831,
+52568,for_sale,350000,3,2,18.7,988908,Chatham,New York,12184,1102,
+22552,for_sale,14000,,,1.88,725427,New Lebanon,New York,12125,,
+82323,for_sale,117900,2,1,0.2,576350,Petersburgh,New York,12138,1054,
+104484,for_sale,125000,,,5.5,1903234,Brunswick,New York,12180,,
+45488,for_sale,275000,5,3,0.41,1436423,Millerton,New York,12546,1740,37445
+65240,for_sale,589900,3,2,0.33,168013,Sand Lake,New York,12018,1271,42858
+45949,for_sale,1395000,4,3,96.38,138230,Craryville,New York,12513,2899,35908
+21935,for_sale,725000,3,4,5.38,250137,New Lebanon,New York,12125,2599,
+99007,for_sale,1225000,4,3,22.04,1412430,East Chatham,New York,12060,2508,
+24097,for_sale,649000,3,2,0.79,323764,Ghent,New York,12037,1512,
+45949,for_sale,1395000,4,3,96,138310,Craryville,New York,12521,2899,
+73460,for_sale,398715,3,2,0.25,1510964,Sand Lake,New York,12018,1602,
+99004,for_sale,259000,3,4,4.04,1202462,New Lebanon,New York,12125,2574,
+10368,for_sale,80000,2,1,0.52,1204693,New Lebanon,New York,12125,700,
+104484,for_sale,469900,4,3,2.01,955820,Sand Lake,New York,12018,3984,43256
+73905,for_sale,419000,4,3,0.98,1609919,Kinderhook,New York,12130,2442,
+23402,for_sale,265000,4,2,0.69,558417,Copake,New York,12516,1800,40736
+37676,for_sale,775000,4,2,13.03,1181686,Chatham,New York,12132,2491,
+22550,for_sale,478900,4,3,4.01,1133054,Sand Lake,New York,12018,2321,
+10368,for_sale,895000,9,5,0.19,470168,Philmont,New York,12565,10000,
+45329,for_sale,142000,2,1,1.48,695544,Hoosick Falls,New York,12090,1080,
+42904,for_sale,245000,4,2,1,949446,Valatie,New York,12184,1596,43237
+32016,for_sale,220000,2,1,1.4,1478795,Millerton,New York,12546,800,38343
+14928,for_sale,549000,3,2,0.25,1535585,Claverack,New York,12534,1890,43840
+45690,for_sale,264900,3,2,4.25,371196,Sand Lake,New York,12018,1080,43509
+8511,for_sale,15000000,8,10,157,1273765,Chatham,New York,12136,14058,40106
+104467,for_sale,139900,4,1,0.12,451402,Sand Lake,New York,12018,2288,
+40690,for_sale,439900,3,2,0.56,652221,Sand Lake,New York,12196,3200,43193
+24605,for_sale,435000,3,2,12,415064,Kinderhook,New York,12184,,
+24605,for_sale,399000,3,1,47.73,468703,Canaan,New York,12029,,
+49332,for_sale,19000,,,0.4,1484226,Berlin,New York,12022,,
+6419,for_sale,899000,6,5,5,1499814,Sand Lake,New York,12018,4100,
+10368,for_sale,165000,,,27.45,1296244,Stephentown,New York,12168,,
+36494,for_sale,2550000,5,4,56.1,1527022,Ghent,New York,12075,4960,40465
+82388,for_sale,497500,3,1,17.32,525693,Claverack,New York,12521,1400,
+22552,for_sale,220000,3,2,1.94,725426,New Lebanon,New York,12125,2824,
+109235,for_sale,189000,3,1,0.59,1515884,East Nassau,New York,12062,1360,
+22552,for_sale,60000,,,5,1866476,Austerlitz,New York,12017,,
+66890,for_sale,45000,,,3.3,903690,Schodack Landing,New York,12033,,
+40690,for_sale,80000,4,3,1,574177,Sand Lake,New York,12018,2367,42283
+40690,for_sale,234800,4,1,1.24,574335,Poestenkill,New York,12140,1232,
+45690,for_sale,279900,3,3,0.37,732011,Sand Lake,New York,12018,2073,38511
+88137,for_sale,2400000,4,4,100.94,229292,New Lebanon,New York,12125,3648,
+94682,for_sale,195000,,,42.38,1932259,Canaan,New York,12029,,
+10368,for_sale,325000,4,2,0.44,10646,Ghent,New York,12075,2240,
+10368,for_sale,325000,4,2,0.44,10646,Chatham,New York,12037,2240,
+45488,for_sale,995000,3,3,0.09,1239645,Craryville,New York,12521,1320,43889
+99005,for_sale,329000,5,2,0.08,330044,Philmont,New York,,2496,
+24605,for_sale,5800000,,,412,1556284,Canaan,New York,12060,,
+10368,for_sale,99900,3,1,0.24,1751358,New Lebanon,New York,12125,1872,
+22550,for_sale,179000,2,2,0.17,893012,Grafton,New York,12052,1469,34337
+94681,for_sale,219000,3,2,8.58,321740,Chatham,New York,12037,1352,
+61576,for_sale,199000,3,2,0.24,16498,Hoosick Falls,New York,12090,1800,44288
+84355,for_sale,199000,3,2,0.99,601945,Hoosick Falls,New York,12090,2056,
+36496,for_sale,449900,3,2,8.96,1371205,Poestenkill,New York,12140,2777,
+29688,for_sale,450000,4,3,6.1,1609987,Stephentown,New York,12168,2350,37922
+22550,for_sale,549000,3,3,3.4,950090,Chatham,New York,12037,2669,41866
+32016,for_sale,59000,,,,13637,Millerton,New York,12546,,
+104484,for_sale,700000,4,2,99,1383002,Nassau,New York,12123,2368,44375
+10368,for_sale,629000,3,3,1.5,911143,Valatie,New York,12184,2126,43235
+10368,for_sale,155000,,,2,1745613,Grafton,New York,12052,,43997
+58424,for_sale,625000,4,2,5.2,1300161,Copake,New York,12516,2029,
+37676,for_sale,3650000,7,4,101,962299,Chatham,New York,12136,5188,39707
+99996,for_sale,1800000,2,1,358,1966235,Taghkanic,New York,12521,1675,
+10368,for_sale,370000,,,4.08,1745486,Canaan,New York,12060,,42760
+10368,for_sale,370000,,,4.08,1745486,Canaan,New York,12029,,
+34901,for_sale,149900,3,1,0.36,329157,Nassau,New York,12123,1218,42466
+94424,for_sale,215000,2,1,2.67,287969,Hoosick Falls,New York,12090,1216,44379
+41606,for_sale,389000,3,3,0.37,1251955,Valatie,New York,12184,1880,42248
+68030,for_sale,125000,,,23.63,1990010,Hoosick,New York,12089,,
+32014,for_sale,69000,,,1.06,1884892,Millerton,New York,12546,,
+94682,for_sale,399950,4,2,0.79,696158,Chatham,New York,12037,1410,
+22552,for_sale,329900,,,100.75,1909240,Poestenkill,New York,12018,,
+32016,for_sale,1675000,4,4,54.8,1883276,Ancram,New York,12503,2400,
+61970,for_sale,265000,5,3,0.28,1260161,Hoosick Falls,New York,12090,2619,40130
+10368,for_sale,274900,6,2,1.06,1050997,Stephentown,New York,12168,2966,36130
+52568,for_sale,350000,3,3,1.22,1635952,Schodack Landing,New York,12063,2400,
+62113,for_sale,108000,,,43.25,1584236,Hoosick Falls,New York,12090,,43664
+27628,for_sale,89900,3,2,0.08,1136397,Hoosick Falls,New York,12090,2099,
+45503,for_sale,1695000,5,5,5.5,1169970,Copake,New York,12516,3380,38737
+45488,for_sale,1695000,5,5,5.5,1169969,Copake,New York,12516,3380,
+52865,for_sale,2195000,13,13,,1732856,Stephentown,New York,12168,2500,
+38575,for_sale,712000,3,2,4.02,1937362,Ghent,New York,12075,1762,
+38575,for_sale,712000,3,2,4.02,1566019,Ghent,New York,12075,1762,
+86566,for_sale,1200000,3,1,75,1902203,Millerton,New York,12546,1600,37026
+89947,for_sale,2500000,,,61.54,1892097,Copake,New York,12516,,
+52568,for_sale,354900,3,3,5.06,331468,Stephentown,New York,12062,2224,42746
+10368,for_sale,289900,4,3,0.29,1353553,Hoosick Falls,New York,12090,1920,34947
+104484,for_sale,185000,2,1,1.16,640874,Nassau,New York,12123,1556,
+41676,for_sale,279900,3,2,1.13,916255,East Greenbush,New York,12061,1984,
+88137,for_sale,219999,2,1,0.17,847289,Ghent,New York,12037,1030,43465
+10368,for_sale,1150000,4,4,18.9,1650526,Claverack,New York,12513,4230,
+10858,for_sale,750000,3,3,4.9,11623,Copake,New York,12516,1708,
+94682,for_sale,1200000,4,4,30,1069916,Chatham,New York,12037,3344,
+45857,for_sale,675000,4,1,209,1730094,East Nassau,New York,12062,1928,
+45503,for_sale,345000,3,2,0.32,847639,Chatham,New York,12037,1126,43998
+52568,for_sale,100000,3,2,3.49,578149,Sand Lake,New York,12018,1518,
+68030,for_sale,75000,,,12.39,1850327,Poestenkill,New York,12018,,
+45690,for_sale,100000,,,25.26,1843439,Grafton,New York,12138,,
+104467,for_sale,349900,3,2,0.61,15576,Sand Lake,New York,12018,1680,43532
+61576,for_sale,350000,2,2,2.54,1272714,Hoosick,New York,12089,1582,
+46468,for_sale,875000,4,5,9.17,1135738,Sand Lake,New York,12018,2800,
+46468,for_sale,1100000,4,5,9.17,1121636,Sand Lake,New York,12018,3773,
+32016,for_sale,69000,,,1.06,1884888,Millerton,New York,12546,,44492
+38575,for_sale,79900,,,1.48,10594,Valatie,New York,12184,,
+46468,for_sale,549900,3,2,2.02,561795,Sand Lake,New York,12018,1787,
+10368,for_sale,395000,,,69.82,1969614,Austerlitz,New York,12037,,
+56480,for_sale,1795000,7,5,9.7,166105,Copake,New York,12528,4212,
+10368,for_sale,1850000,7,5,95.23,1556246,New Lebanon,New York,12125,5250,
+10368,for_sale,125000,,,1.58,1072917,Stephentown,New York,12169,,
+56478,for_sale,1795000,7,5,9.7,166105,Craryville,New York,12521,4212,
+52568,for_sale,169500,3,2,1.7,1104668,New Lebanon,New York,12062,1160,37655
+10368,for_sale,164900,3,2,0.77,196506,Hoosick Falls,New York,12090,1456,43333
+38575,for_sale,69900,,,0.94,1952631,Kinderhook,New York,12106,,
+38575,for_sale,69900,,,0.86,1952632,Kinderhook,New York,12106,,
+38575,for_sale,79900,,,1.48,1952629,Kinderhook,New York,12106,,
+38575,for_sale,79900,,,1.7,1952630,Kinderhook,New York,12106,,
+38575,for_sale,69900,,,0.94,916863,Valatie,New York,12184,,
+38575,for_sale,69900,,,0.86,1139224,Valatie,New York,12184,,
+38575,for_sale,79900,,,1.72,598521,Valatie,New York,12184,,
+38575,for_sale,69900,,,0.93,1904959,Kinderhook,New York,12184,,
+38575,for_sale,79900,,,1.48,1903871,Kinderhook,New York,12184,,
+44625,for_sale,795000,2,2,67.17,1101322,Nassau,New York,12123,1800,
+10368,for_sale,395000,,,69.82,1969614,Austerlitz,New York,12017,,
+38575,for_sale,270000,,,5,1838958,Kinderhook,New York,12106,,
+38575,for_sale,270000,,,5,1903905,Kinderhook,New York,12184,,
+26779,for_sale,64900,3,1,3.5,123402,Poestenkill,New York,12018,1226,38944
+52569,for_sale,349900,3,2,3.9,920296,Canaan,New York,12029,2100,43791
+90665,for_sale,410000,3,3,2.16,1668533,Poestenkill,New York,12018,2159,
+70767,for_sale,325000,3,2,7.78,1567239,Chatham,New York,12136,1321,42186
+45503,for_sale,549000,6,3,6,385466,Chatham,New York,12060,3200,38140
+24097,for_sale,475000,3,2,0.64,1321510,Copake,New York,12516,1092,39286
+33781,for_sale,320000,9,8,0.24,1668976,Nassau,New York,12123,5700,
+86229,for_sale,179900,2,1,0.35,1052228,Millerton,New York,12546,936,26828
+26849,for_sale,299900,3,2,0.07,1136878,Philmont,New York,12565,2024,
+27628,for_sale,339900,4,2,0.6,1564477,Hoosick Falls,New York,12090,4062,36839
+99005,for_sale,105000,3,1,0.34,436963,Claverack,New York,12565,1480,
+52568,for_sale,125000,4,2,0.33,524821,Sand Lake,New York,12018,1448,
+81604,for_sale,179900,2,1,0.18,1370091,Sand Lake,New York,12196,1000,43088
+52568,for_sale,230000,2,1,0.46,1610132,Sand Lake,New York,12196,1040,42732
+24097,for_sale,499000,4,6,0.69,706200,Copake,New York,12516,3182,
+21072,for_sale,349900,3,2,1.2,602019,Sand Lake,New York,12196,1104,39995
+62113,for_sale,299000,2,1,126.74,743667,Petersburgh,New York,12138,862,40308
+3438,for_sale,249000,,,28.11,1867443,Chatham,New York,12130,,
+99005,for_sale,3495000,5,5,33.68,973423,Chatham,New York,12037,6500,
+24184,for_sale,995000,2,1,0.69,1510086,Old Chatham,New York,12136,5356,
+24097,for_sale,450000,3,2,0.26,915578,Copake,New York,12516,1500,36144
+22550,for_sale,436900,4,3,1.78,1128759,Sand Lake,New York,12196,1950,
+10368,for_sale,99900,3,1,0.24,1751380,New Lebanon,New York,12125,3048,
+23402,for_sale,465000,4,3,12.12,1006019,New Lebanon,New York,12125,4588,
+23402,for_sale,215000,3,2,0.39,370419,New Lebanon,New York,12125,976,42010
+84271,for_sale,269900,3,1,0.86,1794185,Hudson,New York,12534,1047,
+38575,for_sale,55000,,,2.63,1584270,Schodack Landing,New York,12132,,
+41533,for_sale,69900,,,0.53,1319211,Millerton,New York,12546,,
+38575,for_sale,55000,,,2.63,1905680,Schodack Landing,New York,12184,,
+63606,for_sale,288000,3,3,0.25,196337,Sand Lake,New York,12018,1716,41430
+38575,for_sale,599900,,1,1.9,387065,Chatham,New York,12037,8000,
+38575,for_sale,45000,,,1.66,1903955,Schodack Landing,New York,12184,,
+38575,for_sale,50000,,,2.24,1904046,Schodack Landing,New York,12184,,
+38575,for_sale,144900,,,6.53,1903904,Schodack Landing,New York,12184,,
+9071,for_sale,195000,,,13.19,1559215,Kinderhook,New York,12106,,
+3439,for_sale,249000,,,28.11,1867443,Chatham,New York,12037,,
+38575,for_sale,144900,,,6.53,1858351,Schodack Landing,New York,12132,,
+10368,for_sale,225000,4,2,7.5,1708851,New Lebanon,New York,12125,1804,
+10368,for_sale,225000,5,2,7.5,1709319,New Lebanon,New York,12125,1804,
+52568,for_sale,249900,3,2,4.81,1645688,Berlin,New York,12022,1478,
+45690,for_sale,149900,3,2,2.63,1025062,Johnsonville,New York,12094,1334,
+61576,for_sale,199000,4,1,0.61,1309401,Hoosick Falls,New York,12090,1695,43735
+41534,for_sale,375000,7,3,,1308816,Nassau,New York,12123,3885,44539
+10368,for_sale,219900,2,1,1.01,513064,Stephentown,New York,12168,960,39682
+44625,for_sale,798900,4,3,5,920168,Kinderhook,New York,12184,3200,
+45503,for_sale,499000,3,3,5.1,1285455,East Chatham,New York,12060,1800,
+24605,for_sale,599000,5,2,16.06,467099,Old Chatham,New York,12136,2639,42615
+88621,for_sale,39900,3,1,6680,823032,Hoosick Falls,New York,12090,1300,
+24603,for_sale,599000,5,2,16.06,467099,Chatham,New York,12037,2639,
+45503,for_sale,1300000,5,4,8.95,1395725,Old Chatham,New York,12136,4278,43556
+24097,for_sale,365000,3,1,0.14,1671354,Copake,New York,12516,1008,36609
+52568,for_sale,285000,2,2,2.01,781026,Poestenkill,New York,12140,2308,
+52568,for_sale,230000,3,2,0.35,1103740,Brunswick,New York,12052,1216,42702
+9071,for_sale,64000,,,8,1953449,Berlin,New York,12022,,
+9072,for_sale,64000,,,8,1953449,Berlin,New York,12022,,
+104484,for_sale,185000,3,1,1,269326,Sand Lake,New York,12018,1350,35788
+73460,for_sale,429900,3,3,0.22,1530800,Sand Lake,New York,12018,1965,
+73460,for_sale,419900,3,2,0.25,1547978,Sand Lake,New York,12018,1602,
+10211,for_sale,139700,3,1,0.51,142871,Poestenkill,New York,12140,1307,35383
+45690,for_sale,159900,3,2,0.17,879267,Schodack Landing,New York,12033,2548,
+49304,for_sale,359000,3,2,0.7,127390,White Creek,New York,12057,2075,
+10368,for_sale,39900,,,9.1,1949025,Grafton,New York,12138,,
+10211,for_sale,59700,,,5.7,680417,New Lebanon,New York,12062,,
+10368,for_sale,59700,,,5.7,680416,New Lebanon,New York,12062,,
+77765,for_sale,175000,2,1,0.54,1226989,Chatham,New York,12123,996,37015
+7797,for_sale,500000,4,3,7.58,1801220,Chatham,New York,12037,2270,36985
+10368,for_sale,419000,3,2,2.7,254554,Kinderhook,New York,12184,1900,42913
+73460,for_sale,669900,4,4,0.87,17518,Sand Lake,New York,12018,3586,
+73460,for_sale,399900,4,3,0.22,1470038,Sand Lake,New York,12018,2001,
+94682,for_sale,259000,7,3,1.11,1340465,New Lebanon,New York,12125,3922,
+14208,for_sale,289900,4,3,14,191662,East Nassau,New York,12062,1808,40785
+37676,for_sale,425000,4,2,0.6,437043,Old Chatham,New York,12136,2700,
+10368,for_sale,450000,4,3,12.53,59545,Stephentown,New York,12168,2400,44369
+38575,for_sale,349900,3,2,1,170399,Austerlitz,New York,12037,2160,43802
+38575,for_sale,349900,3,2,1,170364,Chatham,New York,12037,2160,
+10368,for_sale,125000,,,,1103752,Chatham,New York,12184,,
+42904,for_sale,153000,2,3,0.06,1757218,Nassau,New York,12123,2085,
+771,for_sale,236000,4,2,0.99,870484,East Nassau,New York,12062,1767,42121
+104484,for_sale,150000,3,1,0.34,361199,Nassau,New York,12123,832,39636
+104467,for_sale,425000,4,3,1.53,969421,Poestenkill,New York,12018,3136,42361
+41606,for_sale,375000,2,2,11.28,230228,Nassau,New York,12123,1858,37522
+22550,for_sale,649900,4,3,8.61,1411311,East Chatham,New York,12060,2891,
+23684,for_sale,585000,4,4,10,375114,Sand Lake,New York,12153,2104,40029
+37676,for_sale,785000,4,3,12,649710,Chatham,New York,12037,3667,
+37676,for_sale,1200000,3,4,8.64,733049,Old Chatham,New York,12136,2600,43733
+36852,for_sale,1550000,6,8,56.62,1236985,Elizaville,New York,12523,5170,40925
+44651,for_sale,449900,3,3,1.14,954938,Wassaic,New York,12592,2516,35640
+37314,for_sale,394000,3,2,0.57,438028,Millbrook,New York,12545,1440,44026
+32016,for_sale,372000,3,2,0.87,349720,Amenia,New York,12501,1596,42264
+10485,for_sale,395000,3,2,2.9,423445,Dover Plains,New York,12522,2265,41318
+45488,for_sale,7495000,4,5,172.71,501244,Amenia,New York,12592,4551,34437
+97689,for_sale,595000,3,2,10.9,563684,Clinton Corners,New York,12514,1630,43885
+41051,for_sale,40000,,,1.2,1896024,Northeast,New York,12546,,
+32016,for_sale,632200,,,31.61,1965357,Millerton,New York,12546,,
+32014,for_sale,632200,,,31.61,1965357,Millerton,New York,12546,,
+53232,for_sale,69000,,,1.1,733298,Millerton,New York,12546,,38952
+26849,for_sale,39500,,,0.22,1437220,Claverack,New York,12565,,
+89855,for_sale,75000,,,5.45,1937439,New Lebanon,New York,12212,,
+107913,for_sale,165000,,,6.01,1899551,Amenia,New York,12592,,39458
+39686,for_sale,395000,,,,1945650,Ancram,New York,12502,,
+57529,for_sale,990000,,,123.47,1837895,Red Hook,New York,12571,,38055
+10485,for_sale,700000,,,114.2,1966496,Elizaville,New York,12523,,
+10485,for_sale,50000,,,1.4,1845650,Red Hook,New York,12571,,
+84271,for_sale,350000,,,65,1866409,Taghkanic,New York,12523,,
+77876,for_sale,105000,,,2.52,1888629,Dover Plains,New York,12522,,38888
+10485,for_sale,74900,,,1.26,255045,Clinton Corners,New York,12514,,
+10485,for_sale,1595000,,,129,1069302,Stanfordville,New York,12581,,43567
+16521,for_sale,14000000,10,17,200,1118737,Millbrook,New York,12545,34000,
+63273,for_sale,8900000,,,422.43,1363716,Amenia,New York,12501,,40828
+41051,for_sale,150000,,,5.54,8869,Wassaic,New York,12592,,
+10485,for_sale,248500,,,9.67,1871307,Wingdale,New York,12594,,38901
+8719,for_sale,450000,,,103,1440930,Dover,New York,12522,,
+97116,for_sale,475000,,,119.2,1861451,Red Hook,New York,12571,,
+7797,for_sale,320000,,,20.12,1619,Taghkanic,New York,12502,,
+16834,for_sale,435000,,,29.15,914958,Pine Plains,New York,12567,,
+23622,for_sale,750000,,,50.17,1921094,Gallatin,New York,12567,,
+93967,for_sale,15000,,,0.82,1923592,Red Hook,New York,12571,,39580
+16914,for_sale,195000,,,17.61,1521607,Clinton Corners,New York,12514,,42340
+77876,for_sale,79900,,,3.58,1939860,Dover Plains,New York,12522,,
+45488,for_sale,50000,,,,1888362,Wingdale,New York,12594,,27066
+97115,for_sale,475000,,,119.2,1861451,Clinton Corners,New York,12514,,29011
+77876,for_sale,105000,,,2.9,1939861,Dover Plains,New York,12522,,
+9072,for_sale,74000,,,2.91,1866462,Ancram,New York,12502,,
+24097,for_sale,799000,,,63.3,1954054,Claverack,New York,12534,,
+9071,for_sale,74900,,,2.91,1866462,Ancram,New York,12502,,
+23622,for_sale,850000,,,67.7,1884406,Gallatin,New York,12567,,
+86566,for_sale,1750000,,,33,1906853,Pine Plains,New York,12567,,
+22006,for_sale,389000,6,3,0.86,93096,Claverack,New York,12513,3280,
+79729,for_sale,75000,,,1.12,1872298,Dover Plains,New York,12522,,
+79729,for_sale,75000,,,1.22,1872298,Dover Plains,New York,12522,,
+24183,for_sale,8250000,4,6,55.4,420105,Milan,New York,12571,8430,
+15932,for_sale,125000,,,6.86,1920884,Milan,New York,12571,,
+45488,for_sale,2995000,5,3,452,649848,Wassaic,New York,12592,2400,
+34271,for_sale,2500000,2,4,178.85,1785240,Milan,New York,12571,28000,
+34271,for_sale,2500000,2,4,178.85,1784849,Red Hook,New York,12571,28000,
+9071,for_sale,549000,,,116,1921194,Claverack,New York,12513,,
+63270,for_sale,999000,,,50.24,1954977,Wassaic,New York,12592,,
+79640,for_sale,153100,4,1,1.2,846934,Wingdale,New York,12594,2328,27841
+9072,for_sale,549000,,,116.7,1921194,Claverack,New York,12534,,
+9072,for_sale,549000,,,116,1921194,Claverack,New York,12513,,
+16914,for_sale,695000,,,21.63,92876,Millerton,New York,12546,,36861
+77876,for_sale,850000,,,73.62,1859414,Dover Plains,New York,12522,,
+23056,for_sale,1650000,,,30.13,1439917,Hudson,New York,12534,,
+16914,for_sale,1895000,,,174.72,1253558,Pine Plains,New York,12567,,
+19103,for_sale,125000,,,4.8,1898830,Red Hook,New York,12571,,
+51262,for_sale,125000,,,5.12,1861451,Stanfordville,New York,12571,,
+51262,for_sale,145000,,,6.88,1966621,Stanfordville,New York,12571,,
+42943,for_sale,2495000,5,4,88.6,1060242,Red Hook,New York,12571,5517,
+52569,for_sale,250000,,,6,591075,Ancram,New York,12502,,
+54746,for_sale,1349000,,,27.01,101096,Amenia,New York,12501,,
+16914,for_sale,259000,3,2,2.03,168379,Stanfordville,New York,12581,,43433
+41051,for_sale,59000,,,6,1969070,Ancram,New York,12546,,
+16834,for_sale,14500000,5,7,130.86,264984,Millbrook,New York,12545,6054,
+52475,for_sale,977777,5,5,18.92,908886,Stanford,New York,12545,7400,
+16914,for_sale,699000,4,5,5,1695797,Clinton Corners,New York,12514,3755,
+23056,for_sale,125000,,,4.84,1898829,Gallatin,New York,12571,,
+41051,for_sale,130000,,,0.78,1953516,Amenia,New York,12501,,38642
+41051,for_sale,130000,,,0.78,1953516,Amenia,New York,12501,,
+16834,for_sale,79000,,,2.14,1953431,Pine Plains,New York,12567,,41647
+9071,for_sale,225000,,,19,1881093,Milan,New York,12571,,
+81852,for_sale,2650000,4,6,30.93,254230,Millbrook,New York,12545,8500,
+16834,for_sale,425000,,,49,1499405,Stanfordville,New York,12581,,
+16834,for_sale,495000,,,16.5,1725552,Millbrook,New York,12545,,38744
+41051,for_sale,40000,,,1.2,1895993,Millerton,New York,12546,,31768
+10485,for_sale,110000,,,6.7,1272668,Wingdale,New York,12594,,
+27532,for_sale,75000,,,6.04,1965313,Pine Plains,New York,12567,,
+52568,for_sale,977777,5,5,18.92,908840,Millbrook,New York,12545,7400,31324
+63270,for_sale,2200000,21,14,31.98,1383236,Millbrook,New York,12545,25106,
+42943,for_sale,500000,,,128.02,1846533,Wassaic,New York,12592,,
+49916,for_sale,900000,,,50,1927438,Millbrook,New York,12545,,
+37314,for_sale,1300000,,,94.8,1953649,Ancramdale,New York,12503,,
+27532,for_sale,75000,,,6.07,1965313,Pine Plains,New York,12567,,
+84271,for_sale,215000,,,24.45,1934987,Taghkanic,New York,12502,,
+41533,for_sale,685000,3,5,6.2,1019190,Wingdale,New York,12594,3606,38125
+41533,for_sale,459000,4,3,0.99,112614,Dover Plains,New York,12522,2418,38225
+10368,for_sale,570000,3,2,18.89,1000017,Ancram,New York,12502,1965,
+45503,for_sale,495000,2,,125,1479508,Elizaville,New York,12523,1177,
+29618,for_sale,660000,4,2,59.69,1236063,Millerton,New York,12546,1792,
+14927,for_sale,379000,,,24.99,885824,Pine Plains,New York,12571,,
+15371,for_sale,1995000,5,4,37.2,435670,Red Hook,New York,12571,4064,
+53332,for_sale,350000,9,6,0.56,864986,Wassaic,New York,12592,3952,38215
+10485,for_sale,179000,,,0.66,721285,Stanfordville,New York,12581,3672,
+9071,for_sale,265000,,,0.68,925340,Pine Plains,New York,12567,2892,32133
+9071,for_sale,275000,,,0.26,941656,Pine Plains,New York,12567,2520,30078
+67822,for_sale,125000,,,1.5,793361,Ancram,New York,12502,,43563
+9071,for_sale,275000,,,33.13,1437721,Taghkanic,New York,12502,,
+27532,for_sale,147500,,,,1965313,Pine Plains,New York,12567,,
+9072,for_sale,275000,,,33.13,1932279,Taghkanic,New York,12502,,
+32014,for_sale,795000,3,2,7.57,132871,Amenia,New York,12501,2196,
+15018,for_sale,595000,,,87,1969191,Gallatin,New York,12502,,
+45488,for_sale,1825000,4,3,131.3,289154,Gallatin,New York,12502,3202,42562
+86566,for_sale,375000,,,7.02,548097,Pine Plains,New York,12567,,
+41051,for_sale,269000,2,2,0.76,1539934,Pine Plains,New York,12567,1190,42535
+15371,for_sale,49000,,,6.25,1331133,Dover Plains,New York,12522,,34863
+63265,for_sale,149500,2,1,0.28,1406364,Elizaville,New York,12523,888,44567
+10485,for_sale,249900,2,2,2,376872,Red Hook,New York,12571,1131,
+45488,for_sale,275000,4,2,0.65,822421,Pine Plains,New York,12567,2190,
+45503,for_sale,329000,3,1,2.3,1087599,Pine Plains,New York,12567,1500,32322
+51262,for_sale,340000,3,3,1.54,1001701,Dover Plains,New York,12522,1646,41274
+38575,for_sale,349900,2,1,25.2,840853,Gallatin,New York,12571,980,37165
+51886,for_sale,575000,4,4,4.27,558591,Elizaville,New York,12523,3400,
+45488,for_sale,275000,,,0.78,1447289,Amenia,New York,12501,2500,32898
+10485,for_sale,425000,4,2,2,903498,Stanfordville,New York,12581,1680,
+65663,for_sale,315000,3,2,3.85,1271234,Red Hook,New York,12571,1120,42670
+16834,for_sale,189000,,,14.71,1888763,Dover Plains,New York,12522,,39078
+16914,for_sale,2495000,4,6,90.92,1227098,Ancram,New York,12502,6104,38134
+16834,for_sale,1850000,4,3,13.87,508753,Wassaic,New York,12592,3173,36112
+32016,for_sale,289000,3,2,0.6,1338207,Amenia,New York,12501,1720,41102
+107997,for_sale,899900,3,2,67,1510468,Stanfordville,New York,12581,1890,34591
+16914,for_sale,1695000,4,4,5,1460584,Amenia,New York,12501,3104,32213
+34271,for_sale,1290000,4,4,1.74,1472187,Millbrook,New York,12545,3250,43259
+32014,for_sale,700000,4,4,18.61,1111579,Amenia,New York,12501,2772,34233
+41534,for_sale,495000,2,1,110,1513806,,New York,12523,1177,
+14081,for_sale,6900000,6,8,66,1851036,Wassaic,New York,12522,,
+11407,for_sale,1875000,4,5,14.73,868859,Millerton,New York,12546,4593,33289
+45488,for_sale,9950000,8,7,107,1162137,Millbrook,New York,12545,8224,33757
+15018,for_sale,595000,,,87,1905464,Gallatin,New York,12567,,
+16834,for_sale,3950000,6,4,319,1092875,Dover Plains,New York,12522,3000,
+16914,for_sale,4195000,4,6,24.26,822169,Millerton,New York,12546,7690,35682
+10211,for_sale,1990000,4,4,92,556490,Gallatin,New York,12502,4213,
+11489,for_sale,150000,3,2,1.57,1487402,Stanfordville,New York,12581,1627,43789
+65663,for_sale,235000,3,2,10.5,1131340,Red Hook,New York,12571,1120,
+24097,for_sale,325000,3,2,2.6,752809,Ancram,New York,12502,2166,
+13536,for_sale,350000,3,2,0.28,332001,Wingdale,New York,12594,1568,40947
+16914,for_sale,875000,2,2,29.88,1186961,Clinton Corners,New York,12514,1478,38201
+10485,for_sale,749000,8,5,1.7,1295433,Amenia,New York,12501,4000,43816
+24097,for_sale,775000,4,3,3.36,1069320,Taghkanic,New York,12523,2553,44070
+67822,for_sale,250000,,,10,1242400,Millerton,New York,12546,,35808
+15018,for_sale,675000,,,111,1969191,Gallatin,New York,12567,,
+15018,for_sale,675000,,,111,1904327,Gallatin,New York,12567,,
+65681,for_sale,155000,3,1,0.5,560808,Dover Plains,New York,12594,1100,29017
+19426,for_sale,1995000,5,4,,435026,Red Hook,New York,12571,4064,
+38575,for_sale,185000,,,11.7,1422895,Stanford,New York,12514,,30679
+107913,for_sale,550000,3,1,5.36,1449213,Pine Plains,New York,12567,8044,
+37314,for_sale,430000,2,3,0.4,763320,Millbrook,New York,12545,1242,39273
+16834,for_sale,875000,2,1,9.97,1391851,Pine Plains,New York,12567,1056,39122
+16829,for_sale,3779000,3,4,16.69,1230236,Clinton Corners,New York,12514,3721,37599
+41534,for_sale,1400000,2,2,22.03,1131661,Millbrook,New York,12545,2198,31586
+10858,for_sale,895000,3,3,5,1450774,Craryville,New York,12521,2517,42885
+45488,for_sale,2495000,3,4,26,1640477,Amenia,New York,12501,3790,34478
+26779,for_sale,134950,3,2,0.48,602249,Claverack,New York,12513,2668,39252
+32016,for_sale,110000,2,1,0.77,1760681,Dover Plains,New York,12522,,
+73493,for_sale,219000,5,2,1.05,744160,Claverack,New York,12534,1550,
+107913,for_sale,599000,4,3,2.92,1564003,Millerton,New York,12546,3000,37789
+63364,for_sale,120000,,,5,1176413,Millbrook,New York,12545,,43399
+32014,for_sale,1765000,6,5,16.05,1357409,Amenia,New York,12501,,43595
+41051,for_sale,275000,5,2,1.03,1012745,Wassaic,New York,12592,2424,30498
+80124,for_sale,54900,2,2,,1917152,Dover Plains,New York,12522,1008,
+16914,for_sale,350000,,3,0.2,151778,Stanfordville,New York,12581,3171,
+7797,for_sale,350000,2,1,7.04,250628,Ancram,New York,12502,720,41547
+16914,for_sale,687000,3,3,2.2,318070,Ancram,New York,12502,3023,
+32016,for_sale,575895,4,3,5,912372,Amenia,New York,12501,1824,
+73493,for_sale,2150000,3,3,108.49,1252537,Gallatin,New York,12523,3788,37004
+14927,for_sale,175000,3,2,,1745466,Amenia,New York,12522,1232,
+66996,for_sale,299900,3,2,0.38,955108,Dover,New York,12594,1680,38971
+45488,for_sale,785000,3,3,0.68,1128823,Millbrook,New York,12545,1872,43321
+10485,for_sale,129900,,,2.3,1972907,Taghkanic,New York,12523,,
+10485,for_sale,692000,3,3,6.3,839188,Red Hook,New York,12571,3000,36438
+10485,for_sale,375000,3,2,3.2,864925,Clinton Corners,New York,12514,1284,33640
+77876,for_sale,95000,,,3.3,1853285,Dover Plains,New York,12522,,
+65663,for_sale,549000,3,2,5.05,763513,Clinton Corners,New York,12514,1568,36823
+10485,for_sale,1140000,3,4,4.79,649328,Pine Plains,New York,12567,2790,36831
+16834,for_sale,320000,3,1,0.34,869472,Pine Plains,New York,12567,1197,43353
+99996,for_sale,849000,4,2,84.95,1437481,Craryville,New York,12521,1594,35552
+45488,for_sale,2400000,4,4,10.34,1931347,Red Hook,New York,12571,2225,43179
+5414,for_sale,65000,,,0.59,114728,Malden On Hudson,New York,12453,,
+77876,for_sale,105000,,,4.27,1857146,Dover Plains,New York,12522,,37440
+69225,for_sale,399000,5,3,1,991741,Hudson,New York,12534,2000,42061
+45488,for_sale,1950000,3,3,11.9,1969988,Red Hook,New York,12571,2134,43179
+14927,for_sale,940000,3,3,24.5,193795,Pine Plains,New York,12567,2000,
+14928,for_sale,940000,3,3,24.5,192239,Pine Plains,New York,12567,2000,
+16834,for_sale,799000,1,2,3.08,881862,Red Hook,New York,12571,1200,44333
+45488,for_sale,2750000,4,4,10.1,1931348,Red Hook,New York,12571,3318,43179
+63273,for_sale,150000,2,1,0.81,1020982,Dover Plains,New York,12522,1040,35256
+94263,for_sale,549900,,2,3.01,1409011,Northeast,New York,12546,4512,
+41533,for_sale,529900,4,4,1.3,1620252,Dover Plains,New York,12522,2955,38307
+15371,for_sale,399900,3,2,0.47,1260500,Dover Plains,New York,12594,1564,36908
+32014,for_sale,115000,,,2.88,1845206,Pine Plains,New York,12567,,
+32016,for_sale,115000,,,2.88,1845205,Pine Plains,New York,12567,,
+22006,for_sale,598000,4,3,1.57,334731,Milan,New York,12571,2500,
+16915,for_sale,1744000,,,145.44,861027,Stanfordville,New York,12581,,
+41533,for_sale,299000,4,2,2.08,1079139,Wassaic,New York,12592,1426,32063
+10485,for_sale,759900,3,3,12.82,690251,Stanfordville,New York,12581,3000,37132
+32014,for_sale,1495000,4,4,5.04,243264,Clinton Corners,New York,12514,,36333
+32014,for_sale,4995000,5,6,13.28,1567801,Pine Plains,New York,12567,,43022
+15371,for_sale,269000,,,19.01,919662,Stanfordville,New York,12514,,
+45488,for_sale,4299000,4,6,32.64,59151,Clinton Corners,New York,12514,6908,38611
+33714,for_sale,349999,,,48,1977450,Red Hook,New York,12571,,
+109987,for_sale,349999,,,48,1977450,Red Hook,New York,12571,,
+56591,for_sale,1500000,,1,174,1866409,Taghkanic,New York,12502,1200,
+56590,for_sale,1500000,,1,174,1866409,Taghkanic,New York,12504,1200,
+45488,for_sale,249000,4,2,1.2,1380388,Pine Plains,New York,12567,1964,41893
+23991,for_sale,349500,3,2,0.47,1651225,Pine Plains,New York,12567,1788,41967
+22006,for_sale,549000,3,3,3,999578,Ancram,New York,12502,2288,
+77876,for_sale,375000,2,1,15,1119283,Clinton Corners,New York,12514,1119,36073
+109909,for_sale,300000,,,0.52,1497345,Stanfordville,New York,12581,3437,
+42943,for_sale,1450000,5,5,5,522004,Millbrook,New York,12545,4500,42089
+45488,for_sale,1350000,4,6,5,879329,Clinton Corners,New York,12514,4943,40075
+107997,for_sale,239000,3,1,0.49,728793,Dover Plains,New York,12522,1260,43375
+41051,for_sale,340000,3,2,1.01,911134,Amenia,New York,12501,2048,
+75667,for_sale,338000,3,2,3.44,1057586,Elizaville,New York,12523,1562,
+75667,for_sale,338000,3,2,3.44,1057586,Gallatin,New York,12567,1562,
+37314,for_sale,399000,3,3,2.9,1660833,Stanfordville,New York,12581,1848,
+16834,for_sale,850000,4,3,13.62,76935,Pine Plains,New York,12567,2500,
+10368,for_sale,858000,,,71.5,1218068,Northeast,New York,12546,,
+15371,for_sale,700000,,,1.1,1289172,Amenia,New York,12501,,32553
+84280,for_sale,260000,4,3,1.3,1761667,Milan,New York,12571,2400,
+38575,for_sale,185000,,,11.7,1422896,Stanford,New York,12581,,
+10485,for_sale,235000,4,2,0.17,1428272,Dover Plains,New York,12522,1522,38010
+81852,for_sale,435000,3,3,3.3,470089,Dover Plains,New York,12522,1956,36132
+41926,for_sale,549000,2,3,10,1486329,Clinton Corners,New York,12514,1440,42766
+36494,for_sale,1085000,3,4,11.71,250129,Taghkanic,New York,12521,3200,
+52200,for_sale,14500000,,,342.45,423797,Amenia,New York,12501,,31971
+41008,for_sale,99000,2,1,5,1977450,Red Hook,New York,12571,916,
+42335,for_sale,99000,2,1,5,1977450,Red Hook,New York,12571,916,
+107912,for_sale,595000,3,2,1.8,956060,Amenia,New York,12501,2194,40904
+34270,for_sale,1500000,4,3,73,1566705,Ancram,New York,12502,3422,
+41051,for_sale,279000,3,2,0.14,1375679,Amenia,New York,12501,1834,43756
+42360,for_sale,329000,3,2,0.52,387374,Claverack,New York,12513,1926,43500
+10485,for_sale,375000,3,3,1.57,482679,Dover Plains,New York,12522,1500,37267
+23056,for_sale,365000,4,2,1.8,16417,Stanford,New York,12514,1594,
+41533,for_sale,420000,4,3,1.52,1313595,Millbrook,New York,12545,2080,44279
+65663,for_sale,459900,4,3,0.99,1369971,Pine Plains,New York,12567,2770,
+106727,for_sale,549000,4,3,2,393110,Clinton Corners,New York,12514,2430,35783
+37314,for_sale,1425000,3,3,35.29,1368061,Salt Point,New York,12578,3188,32930
+67822,for_sale,2880000,3,4,22.59,1418673,Pine Plains,New York,12567,3072,39036
+16829,for_sale,695000,,,1,1010270,Montauk,New York,11954,,
+36525,for_sale,2999000,4,4,0.93,955701,Montauk,New York,11954,,33828
+16829,for_sale,8250000,4,6,0.92,1089503,Montauk,New York,11954,3496,42913
+98424,for_sale,7995000,6,7,,1071792,Montauk,New York,11954,5500,44035
+16829,for_sale,2395000,3,2,0.58,405202,Montauk,New York,11954,1500,44275
+16829,for_sale,3500000,4,2,0.8,1511383,Montauk,New York,11954,1500,37554
+42981,for_sale,39500000,5,5,0.16,1192877,Montauk,New York,11954,,33625
+98424,for_sale,10900000,6,4,,1076095,Montauk,New York,11954,3600,36416
+89622,for_sale,1950000,,,2.37,378643,Montauk,New York,11954,,39470
+14069,for_sale,449000,,,0.46,197402,Montauk,New York,11954,,
+42017,for_sale,2399000,3,2,0.27,1826123,Montauk,New York,11954,1742,
+6950,for_sale,2400000,3,2,,732128,Montauk,New York,11954,,
+16829,for_sale,9500000,4,6,0.83,577961,Montauk,New York,11954,4325,41289
+89622,for_sale,2500000,,,3.57,1053652,Montauk,New York,11954,,42465
+83365,for_sale,429999,1,2,8.86,755684,Montauk,New York,11954,,
+29003,for_sale,1699000,3,2,0.21,1698047,Montauk,New York,11954,1408,41758
+98424,for_sale,1100000,,,,66901,Montauk,New York,11954,,
+26692,for_sale,1925000,3,2,0.17,561097,Montauk,New York,11954,,44257
+29003,for_sale,15000000,29,30,3.25,1384278,Montauk,New York,11954,,34829
+29003,for_sale,995000,2,2,0.04,18819,Montauk,New York,11954,644,
+29003,for_sale,995000,2,2,,18818,Montauk,New York,11954,644,
+92893,for_sale,7750000,7,7,4.23,325376,Montauk,New York,11954,7312,41982
+98424,for_sale,899000,2,1,,18818,Montauk,New York,11954,590,
+16829,for_sale,925000,3,2,0.34,1313456,Montauk,New York,11954,,
+16829,for_sale,7500000,4,4,0.83,789625,Montauk,New York,11954,3500,44398
+16829,for_sale,1495000,3,4,0.67,1759401,Montauk,New York,11954,1928,35662
+16138,for_sale,1450000,3,4,0.55,1706258,Southold,New York,6390,2650,41494
+16829,for_sale,3700000,2,2,0.86,463043,Montauk,New York,11954,1680,44286
+16829,for_sale,1950000,3,3,0.17,1297254,Montauk,New York,11954,1850,
+89622,for_sale,2490000,3,3,0.25,201290,Montauk,New York,11954,1423,34236
+28979,for_sale,2500000,,,4,1169185,Montauk,New York,11954,,40187
+29529,for_sale,689999,1,1,,1652553,Montauk,New York,11954,500,
+29529,for_sale,1200000,2,1,,603029,Montauk,New York,11954,,
+26692,for_sale,749000,,,0.32,1758424,Montauk,New York,11954,,
+28972,for_sale,2950000,,,0.53,1815706,Montauk,New York,11954,,39953
+98424,for_sale,9995000,,,,1193272,Montauk,New York,11954,,35145
+16829,for_sale,5650000,4,5,1.01,1259541,Montauk,New York,11954,4200,44119
+16829,for_sale,5250000,4,2,1.2,333635,Montauk,New York,11954,2000,44130
+16829,for_sale,3450000,6,8,0.57,1671742,Montauk,New York,11954,4011,43941
+29003,for_sale,1718000,3,2,0.41,956302,Montauk,New York,11954,1900,
+16829,for_sale,1095000,2,1,,603027,Montauk,New York,11954,767,
+29529,for_sale,899000,2,1,,603031,Montauk,New York,11954,767,
+98424,for_sale,6450000,4,4,,113497,Montauk,New York,11954,3000,
+14067,for_sale,18950000,6,9,1.03,1531646,Montauk,New York,11954,,31993
+16829,for_sale,8290000,7,8,1.08,481905,Montauk,New York,11954,6265,
+98424,for_sale,3500000,,1,,1674801,Montauk,New York,11954,2376,
+28972,for_sale,2250000,4,4,0.33,1584907,Montauk,New York,11954,2238,42137
+89622,for_sale,2500000,,,3,654298,Montauk,New York,11954,,42461
+16829,for_sale,8500000,6,8,0.68,1670432,Montauk,New York,11954,4890,40931
+29003,for_sale,549000,1,1,,1607649,Montauk,New York,11954,480,
+29003,for_sale,549000,1,1,4.75,1607648,Montauk,New York,11954,480,
+98421,for_sale,4850000,5,4,,9744,Montauk,New York,11954,2900,43553
+29529,for_sale,799000,1,1,,603030,Montauk,New York,11954,689,
+67938,for_sale,1195000,4,2,,1568680,Montauk,New York,11954,2200,37517
+45690,for_sale,24900,,,0.61,1564940,Granville,New York,12832,,41813
+68200,for_sale,105000,3,2,4.22,1559975,Hampton,New York,12837,1352,43452
+24596,for_sale,95000,,2,0.66,1052432,Granville Village,New York,12832,4280,
+22552,for_sale,109000,2,1,0.19,693985,Hampton,New York,12837,1084,
+26103,for_sale,159000,6,2,0.4,481769,Granville Village,New York,12832,2547,
+24596,for_sale,250000,4,4,0.39,1105130,Granville Village,New York,12832,2688,42893
+52568,for_sale,325000,4,3,1.97,1759576,Cambridge,New York,12816,1760,44447
+74021,for_sale,205000,3,2,0.14,1314684,Cambridge,New York,12816,,41725
+71674,for_sale,719900,3,3,9.3,563491,Salem,New York,12873,3034,40568
+75624,for_sale,215000,5,2,53.81,1392322,Salem,New York,12865,1932,42423
+75624,for_sale,119900,1,1,2.1,1152767,Salem,New York,12865,642,41801
+52568,for_sale,229000,1,2,5.81,1735212,Jackson Heights,New York,12873,1170,44096
+22550,for_sale,69900,,,5.05,971995,Salem,New York,12865,,
+33714,for_sale,159999,3,2,2,1089379,Greenwich,New York,12834,2300,36831
+85531,for_sale,120000,5,2,0.32,602647,Greenwich,New York,12834,2068,37960
+52568,for_sale,675000,4,5,2.79,733340,Greenwich,New York,12834,3439,42156
+34901,for_sale,129000,3,2,1,1104736,Johnsonville,New York,12094,1248,40465
+49304,for_sale,305000,3,2,1.7,101575,Greenwich,New York,12834,1920,
+49304,for_sale,169900,6,5,1,1370063,Cambridge,New York,12816,3714,40919
+75624,for_sale,100000,4,2,0.46,186997,Jackson Heights,New York,12816,2160,38952
+104484,for_sale,150000,,,10.49,1839700,Pittstown,New York,12094,,
+105595,for_sale,69950,,,10.15,1989202,Greenwich,New York,12834,,
+44625,for_sale,1200000,3,3,31.68,1192042,Valley Falls,New York,12185,5200,39554
+49304,for_sale,247500,,,6.4,1755263,White Creek,New York,12816,3744,38119
+27929,for_sale,319000,3,2,0.74,1660799,Cambridge,New York,12816,1582,
+49304,for_sale,299000,3,2,5,65580,Cambridge,New York,12834,2800,
+74021,for_sale,75000,2,1,0.31,1671149,White Creek,New York,12816,1260,43950
+22552,for_sale,289900,4,2,1.46,16926,Cambridge,New York,12816,1880,
+27929,for_sale,220000,2,1,0.24,1638012,Cambridge,New York,12816,1140,
+61970,for_sale,395000,4,3,6.6,1106516,Cambridge,New York,12816,5500,37081
+23684,for_sale,289900,3,2,0.41,1670061,Pittstown,New York,14534,3480,
+58357,for_sale,188500,3,1,0.33,470318,Valley Falls,New York,12185,1230,41386
+95798,for_sale,79900,,,6.29,1653286,Pittstown,New York,12121,,44448
+41099,for_sale,189900,3,2,0.66,282001,Valley Falls,New York,12185,2236,43725
+52568,for_sale,30000,,,3.21,1885351,Cambridge,New York,12816,,
+68030,for_sale,244900,3,1,1.13,641472,Valley Falls,New York,12185,1006,44469
+27628,for_sale,184500,,,118.03,1884514,White Creek,New York,12057,,
+10368,for_sale,199500,2,3,0.3,1638091,Cambridge Village,New York,12816,3289,35611
+10368,for_sale,139000,2,1,10.6,260378,Salem,New York,12865,500,
+69428,for_sale,99000,3,2,0.3,739803,Salem,New York,12865,1872,
+75624,for_sale,16900,,,1.82,915954,Salem,New York,12865,,
+75624,for_sale,99900,,,54.7,1904672,Salem,New York,12865,,
+61970,for_sale,155000,,,27.47,1900663,Salem,New York,12873,,
+82587,for_sale,59200,6,2,0.27,386862,Valley Falls,New York,12185,2522,39206
+52568,for_sale,1050000,18,17,0.75,438971,Cambridge,New York,12816,14500,
+74021,for_sale,174000,5,2,0.27,1793821,Cambridge,New York,12816,2918,43767
+74021,for_sale,189900,3,1,1.2,1714129,Cambridge,New York,12816,1275,
+107525,for_sale,369900,5,3,10.1,1403260,White Creek,New York,12057,2250,
+68030,for_sale,244900,3,1,1.13,641486,Valley Falls,New York,12185,1006,
+24423,for_sale,60000,,,5.1,2772,Hoosick,New York,12089,,
+51284,for_sale,209000,4,2,1,763276,Cambridge,New York,12816,2950,
+74021,for_sale,279000,3,1,6.2,749828,Cambridge,New York,12816,1524,
+69769,for_sale,129000,,,14.96,1868375,Pittstown,New York,12121,,
+9032,for_sale,155000,2,1,0.37,331096,Cambridge,New York,12816,1000,42347
+40690,for_sale,430000,3,3,2.9,840599,Easton,New York,12154,2244,41654
+74021,for_sale,275000,4,2,0.47,524111,Cambridge,New York,12816,2880,42297
+68030,for_sale,249900,,,55.75,1900051,Brunswick,New York,12180,,
+68030,for_sale,249900,,,55.75,1900051,Troy,New York,12180,,
+105685,for_sale,239900,6,8,4.44,859293,Granville,New York,12832,5420,
+52568,for_sale,17900,,,5.1,1214024,Hebron,New York,12865,,
+52568,for_sale,150000,,,110.6,1888640,Hebron,New York,12865,,
+67314,for_sale,780000,,,246,1895209,Whitehall,New York,12887,,
+52568,for_sale,25900,,,1.01,1670233,Greenwich,New York,12834,,
+43301,for_sale,29000,,,2.5,1866424,Hebron,New York,12832,,
+45690,for_sale,35000,,,1.2,1945672,Hartford,New York,12838,,
+43301,for_sale,39000,,,5.1,1868088,Hebron,New York,12832,,
+82261,for_sale,60000,6,3,3,341019,Dresden,New York,12819,2989,42829
+771,for_sale,50000,,,5.1,1969070,Granville,New York,12849,,
+76415,for_sale,300000,5,2,230.5,85119,Fort Ann,New York,12827,2064,41453
+51284,for_sale,190000,3,2,,269930,Cambridge,New York,12816,,
+51284,for_sale,140000,4,2,,1500525,Cambridge,New York,12816,,
+22552,for_sale,499000,4,3,276,234766,Whitehall Village,New York,12887,1872,39778
+22552,for_sale,172900,3,2,2.08,84970,Hampton,New York,12837,1702,42024
+107525,for_sale,69000,,,10.04,1909861,Argyle,New York,12809,,
+67314,for_sale,15000,,,0.24,1878316,Whitehall,New York,12887,,
+67314,for_sale,199000,,,145.8,189128,Hampton,New York,12887,,
+51084,for_sale,70000,,,9.89,519898,Hebron,New York,12832,,39965
+36499,for_sale,799900,,,395,1841142,Fort Ann,New York,12827,,
+52568,for_sale,30000,6,2,0.34,114304,Whitehall,New York,12887,1974,
+29383,for_sale,539900,5,3,0.1,1285992,Greenwich,New York,12834,2844,40961
+41662,for_sale,299999,,,98.98,1096846,Kingsbury,New York,12839,,
+36499,for_sale,212571,,,87.2,1498676,Hebron,New York,12832,,
+17647,for_sale,169000,,,22.25,1969070,Hebron,New York,12809,,
+33714,for_sale,69999,,,11.47,1824176,Whitehall,New York,12887,,
+45690,for_sale,50000,,,8.24,1973444,Granville,New York,12832,,
+36697,for_sale,529000,2,2,66.53,1470390,Whitehall,New York,12887,2300,39736
+107525,for_sale,134900,,,4.6,308006,Hampton,New York,12837,,
+82261,for_sale,27000,,,8.7,550152,Hampton,New York,12887,,
+52568,for_sale,289900,3,2,2.3,1241345,Greenwich,New York,12834,1620,
+67314,for_sale,295000,6,3,2.75,316934,Hampton,New York,12887,4355,37266
+75624,for_sale,269900,4,1,24.64,1205399,Salem,New York,12865,2006,
+82261,for_sale,129000,2,1,100000,598202,Whitehall,New York,12887,1352,
+104218,for_sale,215000,4,2,45.23,1693426,Kingsbury,New York,12839,1978,37992
+82261,for_sale,199000,,,192,1891402,Hampton,New York,12837,,
+67314,for_sale,56000,3,2,0.15,563172,Whitehall,New York,12887,1392,
+22550,for_sale,32500,,,10,1963789,Hebron,New York,12832,,
+41662,for_sale,254999,3,2,1.03,1383078,Fort Ann,New York,12821,1104,
+24596,for_sale,325000,3,1,10,1224385,Hartford,New York,12827,1820,39349
+82261,for_sale,189900,3,1,0.48,704505,Dresden,New York,12819,2112,
+68030,for_sale,350000,3,2,5.25,903098,Jackson Heights,New York,12816,3172,
+45690,for_sale,220000,3,2,6.36,1725451,Argyle,New York,12809,1836,
+67314,for_sale,39500,,,5.1,1868112,Whitehall,New York,12887,,
+52568,for_sale,268000,3,1,2.3,427501,Argyle,New York,12809,1556,41821
+52568,for_sale,139999,,,105.8,1890022,Fort Ann,New York,12827,,
+96922,for_sale,244900,4,3,0.8,439056,Granville,New York,12832,2106,44459
+51084,for_sale,529000,2,1,0.06,1504747,Dresden,New York,12841,740,43769
+36499,for_sale,550000,,,265,1948400,Fort Ann,New York,12827,,
+51084,for_sale,35000,,,2.4,377623,Dresden,New York,12819,,
+68200,for_sale,50000,5,2,0.28,1564685,Granville Village,New York,12832,2194,
+43301,for_sale,99000,2,1,0.8,416209,Granville,New York,12832,2500,40487
+56590,for_sale,148900,3,3,35,545077,Fort Ann,New York,12887,1872,
+45690,for_sale,295000,1,2,3.04,1617721,Hebron,New York,12832,3960,
+9032,for_sale,159000,3,1,0.32,1059296,Salem,New York,12865,1440,
+67314,for_sale,53900,,,5.79,1312668,Whitehall,New York,12887,,
+80344,for_sale,31500,3,1,0.12,330858,Granville,New York,12832,1302,38804
+74021,for_sale,189000,3,2,6.3,1364719,Cambridge,New York,12816,1350,43637
+105595,for_sale,515000,4,2,12.34,972114,Fort Ann,New York,12887,2328,36431
+22552,for_sale,85000,4,1,0.2,1668184,Whitehall,New York,12887,1056,
+107525,for_sale,60000,,,11,1923365,Salem,New York,12865,,
+22552,for_sale,149000,3,2,3.2,1544497,Salem,New York,12865,1792,40232
+27929,for_sale,250000,1,2,2.35,332808,Shushan,New York,12873,1308,40024
+27929,for_sale,250000,1,2,2.35,332808,Salem,New York,12865,1308,
+51084,for_sale,219900,3,2,0.92,1556460,Granville,New York,12832,1612,43349
+27253,for_sale,274900,5,2,0.97,1641581,Fort Ann,New York,12827,1872,42535
+52568,for_sale,17500,,,0.09,872050,Whitehall,New York,12887,,
+24309,for_sale,35000,,,17,1905115,Argyle,New York,12809,,
+36499,for_sale,90000,,,25.48,1969054,Argyle,New York,12809,,
+52568,for_sale,9000,,,0.12,986135,Whitehall,New York,12887,,
+33138,for_sale,450000,,,50.91,1919470,Argyle,New York,12809,,
+68200,for_sale,23000,2,1,2.5,46637,Hebron,New York,12865,672,35307
+49304,for_sale,164900,3,1,1.05,594245,Hebron,New York,12832,1376,43461
+32681,for_sale,299000,,,98.45,1904509,Hebron,New York,12832,,
+83608,for_sale,29000,,,0.95,1169110,Salem,New York,12865,,
+36499,for_sale,60000,,,20.07,1969053,Argyle,New York,12809,,
+36499,for_sale,49000,,,6.1,1969055,Argyle,New York,12809,,
+36499,for_sale,69000,,,18.61,1969058,Argyle,New York,12809,,
+13305,for_sale,21500,,,2.78,1866418,Whitehall,New York,12887,,
+82261,for_sale,225000,,,7,419787,Dresden,New York,12819,,43020
+82261,for_sale,149900,,,2,410782,Dresden,New York,12819,,
+52475,for_sale,990000,,,11.74,439345,Cambridge,New York,12887,,
+52568,for_sale,99000,3,1,2.6,972288,Hampton,New York,12837,1440,39470
+101674,for_sale,29950,3,1,2,1242598,Granville,New York,12832,1396,39644
+65388,for_sale,149900,3,2,25.53,1603374,Granville,New York,12832,3584,36493
+45690,for_sale,155000,3,1,2.5,144595,Fort Ann,New York,12827,1708,
+52568,for_sale,259000,3,2,5,1616365,Hudson Falls,New York,12839,1716,38814
+74021,for_sale,169000,2,1,7.52,843660,Hebron,New York,12832,1440,
+45690,for_sale,139000,5,3,0.18,12033,Whitehall,New York,12887,3169,43690
+74021,for_sale,239900,4,3,0.31,1757875,Greenwich,New York,12834,2844,42647
+22552,for_sale,45900,,,7,1826201,Granville,New York,12832,,41963
+51084,for_sale,69900,,,33.3,1903826,Dresden,New York,12819,,
+26103,for_sale,219900,2,1,5,952470,Granville,New York,12832,1000,
+107525,for_sale,154900,3,2,0.28,491227,Greenwich,New York,12834,1400,
+52568,for_sale,29900,,,0.36,1887029,Greenwich,New York,12834,,
+52568,for_sale,47000,3,2,0.23,1521749,Whitehall,New York,12887,2163,
+24596,for_sale,89900,,1,0.27,1427573,Whitehall Village,New York,12887,2388,
+51084,for_sale,65000,1,1,6,1483776,Hebron,New York,12865,1761,43889
+67314,for_sale,70000,,,24.52,1297675,Whitehall,New York,12887,,
+22552,for_sale,21500,,,5.18,1969070,Salem,New York,12865,,
+109987,for_sale,69999,,,11.47,1824192,Whitehall,New York,12887,,
+73676,for_sale,239000,4,3,0.33,1121641,Argyle,New York,12809,2400,
+52568,for_sale,149000,3,2,7.85,410496,Granville,New York,12832,1344,37648
+52568,for_sale,184999,3,1,1.6,1353590,Granville,New York,12832,1218,36209
+44625,for_sale,350000,3,3,2.41,732135,Hampton,New York,12837,2588,42514
+43301,for_sale,42500,,,6.37,1868088,Hebron,New York,12832,,
+32681,for_sale,149995,6,2,0.1,1452339,Greenwich,New York,12834,2140,
+43301,for_sale,39900,,,5.1,1868088,Hebron,New York,12832,,
+10368,for_sale,264900,4,2,0.15,915673,Cambridge,New York,12816,1800,43117
+45690,for_sale,189900,4,2,0.15,697128,Greenwich,New York,12834,1840,43741
+45690,for_sale,212000,5,2,0.21,1668032,Greenwich,New York,12834,1900,41627
+83608,for_sale,39900,2,2,2.9,1560895,Granville,New York,12832,938,
+65388,for_sale,24900,3,2,1.1,561143,Whitehall,New York,12887,2352,38881
+51084,for_sale,420000,2,3,60.11,1417356,Hartford,New York,12838,1408,
+26103,for_sale,209900,3,1,3.2,305864,Fort Ann,New York,12827,1120,44153
+105595,for_sale,36000,,,10.12,1855789,Granville,New York,12832,,
+68200,for_sale,125000,3,1,0.27,915572,Granville Village,New York,12832,2364,
+24596,for_sale,425000,3,3,42.17,1546472,Granville,New York,12832,4160,
+67314,for_sale,179999,3,2,0.25,1140130,Whitehall,New York,12887,1842,38406
+24596,for_sale,139000,4,2,4.27,1350353,Greenwich,New York,12865,2024,40731
+10211,for_sale,48000,,,8.28,1964159,Hartford,New York,12838,,
+41662,for_sale,149900,3,1,0.39,1229282,Whitehall,New York,12887,1411,44267
+41662,for_sale,249000,5,2,2.12,695004,Argyle,New York,12828,2443,44552
+41662,for_sale,48000,,,2.81,1933331,Fort Ann,New York,12827,,
+14225,for_sale,500000,,,19,162777,Granville,New York,12832,,
+67314,for_sale,272900,3,2,5.1,1101863,Whitehall,New York,12887,1729,
+26103,for_sale,375000,3,2,30.35,437631,Dresden,New York,12819,2004,
+58424,for_sale,575900,3,3,3.61,832903,Greenwich,New York,12834,1371,
+45690,for_sale,155000,2,1,15.81,378625,Hebron,New York,12832,1440,
+101674,for_sale,210000,3,3,12.03,372356,Argyle,New York,12809,2584,38817
+67314,for_sale,349000,3,2,27.43,1510140,Whitehall,New York,12887,1452,
+52568,for_sale,400000,3,2,10.2,478780,Greenwich,New York,12834,1700,37679
+52568,for_sale,439900,6,5,0.39,47291,Greenwich,New York,12834,6164,
+22550,for_sale,31900,4,3,0.06,602170,Granville Village,New York,12832,2739,37860
+41662,for_sale,279900,3,2,10.21,834155,Whitehall,New York,12887,1508,43088
+68200,for_sale,205000,5,2,0.39,524649,Granville Village,New York,12832,1909,44427
+29383,for_sale,479000,4,3,2.45,1686258,Greenwich,New York,12834,2520,39868
+22552,for_sale,249900,4,2,4.22,687527,Greenwich,New York,12834,1440,41536
+97472,for_sale,177000,5,3,0.64,1637754,Argyle,New York,12809,2992,41654
+97472,for_sale,165000,4,2,0.64,1645586,Argyle,New York,12809,2094,42425
+97472,for_sale,165000,6,2,0.64,115620,Argyle,New York,12809,2392,
+103428,for_sale,850000,5,4,3.44,812001,Cambridge,New York,12816,4000,
+52475,for_sale,550000,3,3,25.01,683593,Argyle,New York,12809,2300,
+52568,for_sale,115000,2,1,0.25,1416245,Fort Ann,New York,12827,958,39065
+81805,for_sale,260000,5,3,4.09,312109,Granville,New York,12849,2567,42650
+18718,for_sale,57000,,,15,1962103,Salem,New York,12865,,
+52568,for_sale,1000000,5,5,0.72,1213378,Granville,New York,12832,6736,37894
+41662,for_sale,219900,4,2,0.86,1499808,Fort Ann,New York,12827,1500,
+36499,for_sale,39900,,,2.24,1872690,Argyle,New York,12809,,
+52568,for_sale,175000,3,1,0.17,1308923,Greenwich,New York,12834,1256,43251
+18718,for_sale,109000,,,2.7,1350823,Salem,New York,12865,,
+22552,for_sale,66900,4,2,0.5,950132,Dresden,New York,12819,1512,38225
+26103,for_sale,289900,3,2,6.4,1624849,Granville,New York,12832,2200,42949
+46183,for_sale,329000,3,2,3.68,766322,Hudson Falls,New York,12839,2016,43026
+45690,for_sale,289900,1,1,0.68,1533366,Argyle,New York,12809,1176,
+13305,for_sale,70000,3,1,0.33,1394802,Whitehall,New York,12887,1250,36390
+105595,for_sale,449500,3,2,15.59,1638136,Whitehall,New York,12887,1808,
+22552,for_sale,42500,,,2.56,1288468,Whitehall,New York,12887,,41248
+84944,for_sale,69000,2,1,10.14,1471126,Argyle,New York,12809,744,37193
+101674,for_sale,170000,3,2,0.73,1470407,Hartford,New York,12838,2420,34635
+57399,for_sale,119900,3,2,0.46,870684,Fort Ann,New York,12827,2132,36264
+22552,for_sale,324000,3,3,1,1403641,Argyle,New York,12809,2043,35492
+52568,for_sale,207427,2,2,3,1445046,Argyle,New York,12809,1000,
+67314,for_sale,37500,3,2,0.65,172590,Fort Ann,New York,12827,1300,
+57399,for_sale,49900,3,1,0.15,1486085,Fort Ann,New York,12827,1080,39853
+52568,for_sale,225000,4,2,1.6,1030874,Fort Ann,New York,12827,2500,
+97472,for_sale,240000,3,2,1,899823,Cambridge,New York,12816,1544,35598
+10211,for_sale,75000,3,1,0.11,437147,Whitehall,New York,12887,1410,40394
+52568,for_sale,39000,1,1,0.1,57345,Whitehall,New York,12887,1260,
+24596,for_sale,125000,2,1,4,1213080,Hampton,New York,12837,960,
+24596,for_sale,149999,4,2,0.3,763703,Granville,New York,12832,1576,41918
+41662,for_sale,174900,2,1,2,1065374,Fort Ann,New York,12827,910,41439
+45690,for_sale,695000,6,4,0.33,423540,Greenwich,New York,12834,4776,43903
+105595,for_sale,499000,,2,132,830270,Whitehall,New York,12887,1500,36021
+22550,for_sale,279000,7,6,0.25,677213,Salem,New York,12865,4380,41267
+43028,for_sale,107000,,,19.54,1866480,Salem,New York,12865,,
+52568,for_sale,65000,,,0.09,151148,Whitehall Village,New York,12887,5595,
+36496,for_sale,1550000,6,5,193.8,130248,Hebron,New York,12865,5012,38839
+52568,for_sale,339900,2,2,0.36,1887029,Greenwich,New York,12834,1248,
+84944,for_sale,139000,3,2,16.57,177668,Hebron,New York,12832,2172,37497
+22552,for_sale,147000,1,1,1.4,515043,Hartford,New York,12838,616,42125
+101674,for_sale,54900,2,1,0.07,366373,Whitehall,New York,12887,1080,
+84355,for_sale,499900,1,3,8.09,1252338,Argyle,New York,12809,2776,
+105595,for_sale,375000,,,72,807692,Hebron,New York,12865,,40996
+24596,for_sale,125000,4,2,0.11,1285741,Granville,New York,12832,1526,37405
+88621,for_sale,49900,2,2,0.29,1815214,Hartford,New York,12838,1490,42002
+43677,for_sale,299000,4,4,0.16,483999,Cambridge,New York,12816,5661,
+19410,for_sale,169900,,,102.9,305436,Dresden,New York,12887,,
+69801,for_sale,319000,3,1,1.13,482098,Willsboro,New York,12996,972,
+16218,for_sale,265000,3,2,0.52,917391,Peru,New York,12972,1663,
+56011,for_sale,172500,4,4,0.91,317329,Port Kent,New York,12975,2662,
+1253,for_sale,149900,2,1,0.2,1383542,Port Kent,New York,12975,925,
+16218,for_sale,385000,3,2,8.38,905489,Keeseville,New York,12944,2002,41726
+78858,for_sale,175000,,,59,1892437,Keeseville,New York,12944,,
+78858,for_sale,263000,3,2,1.6,1556536,Keeseville,New York,12944,1960,43521
+24744,for_sale,19500,,,0.4,1847423,Willsboro,New York,12996,,
+24744,for_sale,795000,3,2,0.6,237326,Willsboro,New York,12996,1363,41620
+24744,for_sale,29000,,,0.6,1844749,Willsboro,New York,12996,,
+7632,for_sale,499000,,,32.19,1892522,Chesterfield,New York,12901,,
+7632,for_sale,154900,3,1,2,1682201,Keeseville,New York,12944,1368,
+100130,for_sale,130000,2,2,0.52,1760350,Schuyler Falls,New York,12985,1200,
+67317,for_sale,259900,3,2,0.6,1820859,Keeseville,New York,12944,2528,38231
+69801,for_sale,279900,3,2,0.27,1137949,Plattsburgh,New York,12901,1975,
+16218,for_sale,169000,4,2,0.29,1193147,Plattsburgh,New York,12901,2840,43291
+18924,for_sale,99800,3,2,0.1,1326670,Plattsburgh,New York,12901,1862,36573
+78858,for_sale,134900,2,2,0.07,892812,Plattsburgh,New York,12901,1570,39988
+5647,for_sale,289000,3,2,9.6,1717372,Westport,New York,12993,1440,
+24624,for_sale,59000,3,1,0.4,1251085,Moriah,New York,12960,1425,
+78858,for_sale,50000,3,1,0.2,269020,Willsboro,New York,12996,1312,
+8648,for_sale,127500,2,1,0.7,1382590,Keeseville,New York,12944,1232,37133
+85915,for_sale,110000,,,38.03,82183,Westport,New York,12993,,
+85915,for_sale,150000,3,2,1.65,127027,Willsboro,New York,12996,1188,38974
+78858,for_sale,159900,3,2,0.44,764483,Keeseville,New York,12944,1517,41892
+51084,for_sale,279000,3,1,4,1731930,Lewis,New York,12950,2083,
+13305,for_sale,79900,3,2,0.2,915094,Moriah,New York,12956,1443,36924
+78858,for_sale,229000,3,2,0.67,84995,Keeseville,New York,12944,1100,
+78858,for_sale,179900,3,2,0.6,1052837,Keeseville,New York,12944,1754,43398
+38725,for_sale,375000,3,3,2.8,1343839,Moriah,New York,12960,2000,
+34012,for_sale,238500,3,2,1,1229341,Peru,New York,12972,2485,43838
+78858,for_sale,175000,3,1,0.36,1383199,Keeseville,New York,12944,925,
+90422,for_sale,299000,3,2,11.6,80648,Westport,New York,12993,1664,40023
+34012,for_sale,275000,3,3,0.1,1518939,Westport,New York,12993,1858,40760
+23096,for_sale,28500,,,0.2,1092086,Willsboro,New York,12996,,
+51084,for_sale,459900,3,1,381,1358016,Moriah,New York,12993,2000,
+90422,for_sale,4750000,4,6,29.5,1229178,Willsboro,New York,12996,8000,
+24744,for_sale,597000,6,4,8.16,1009396,Willsboro,New York,12996,3247,
+85915,for_sale,899900,4,5,74.18,888701,Westport,New York,12993,4159,
+63739,for_sale,479000,4,1,33,422842,Lewis,New York,12993,2000,
+90422,for_sale,1179000,5,4,127,1297019,Westport,New York,12993,6024,
+13305,for_sale,299000,,,189,919808,Chesterfield,New York,12944,,
+24624,for_sale,99000,3,2,0.4,990807,Moriah,New York,12960,1550,
+99769,for_sale,325000,3,2,12.23,1812070,Westport,New York,12993,2051,40735
+1527,for_sale,210000,1,1,46,719983,Lewis,New York,12950,720,
+67317,for_sale,39900,,,3.21,1128769,Willsboro,New York,12996,,
+16218,for_sale,25500,,,1,1884078,Peru,New York,12972,,
+24744,for_sale,215000,3,2,1,1556735,Westport,New York,12993,1183,
+55544,for_sale,124900,3,1,0.3,319730,Keeseville,New York,12944,1398,
+24744,for_sale,169000,3,1,0.7,561161,Westport,New York,12993,889,
+78858,for_sale,49900,,,26.3,1857352,Chesterfield,New York,12944,,
+5624,for_sale,69900,4,3,0.67,1499655,Keeseville,New York,12944,1200,
+1527,for_sale,159000,,,0.2,1730043,Lewis,New York,12950,4000,37459
+8648,for_sale,10000,,,6.09,1917400,Peru,New York,12972,,
+78858,for_sale,22000,,,2.3,1916002,Plattsburgh,New York,12901,,
+43309,for_sale,219000,3,3,3.2,702791,Essex,New York,12936,2160,44328
+85915,for_sale,489900,3,3,3.22,601195,Westport,New York,12993,3867,
+16218,for_sale,39500,,,2.81,1907351,Peru,New York,12972,,
+52301,for_sale,99900,7,3,2.5,1089586,Morrisonville,New York,12962,3994,
+49252,for_sale,224900,3,2,0.16,847786,Plattsburgh,New York,12901,1539,44391
+23093,for_sale,1295000,4,6,1.8,692594,Willsboro,New York,12996,7639,40354
+78858,for_sale,22500,,,1.18,1884078,Peru,New York,12972,,
+23096,for_sale,275000,4,3,0.49,1031044,Peru,New York,12972,2600,39374
+103827,for_sale,134999,,,24.02,1417620,Westport,New York,12993,,
+24744,for_sale,579000,5,4,3.5,481426,Willsboro,New York,12996,3392,38877
+78858,for_sale,24900,,,0.35,1010179,Plattsburgh,New York,12901,,
+16218,for_sale,149900,2,2,0.03,6554,Plattsburgh,New York,12901,1456,39365
+7632,for_sale,385000,6,,0.63,521074,Keeseville,New York,12944,3043,
+5624,for_sale,74900,,,0.47,1758972,Plattsburgh,New York,12901,,37494
+87758,for_sale,120000,4,2,0.23,89866,Morrisonville,New York,12962,3264,44615
+24744,for_sale,359000,4,3,0.3,722188,Essex,New York,12936,1772,
+34012,for_sale,37500,,,0.51,1962796,Plattsburgh,New York,12901,,
+78858,for_sale,125000,5,2,0.18,562518,Plattsburgh,New York,12901,1745,39988
+78858,for_sale,375000,10,6,0.17,596033,Plattsburgh,New York,12901,4173,
+43309,for_sale,49900,,,1.1,847137,Essex,New York,12936,,42866
+78858,for_sale,229000,5,3,0.14,1089920,Plattsburgh,New York,12901,2263,
+7632,for_sale,64000,,,3.21,1885280,Port Kent,New York,12924,,
+38600,for_sale,25000,,,1.16,764536,Tupper Lake,New York,12988,,
+38600,for_sale,25000,,,1.14,793929,Tupper Lake,New York,12988,,
+78858,for_sale,229000,,,3.61,1840808,Plattsburgh,New York,12901,,
+34012,for_sale,575000,,,5.76,1845378,Peru,New York,12972,,
+23096,for_sale,189000,3,3,3.7,244220,Morrisonville,New York,12962,1848,
+23096,for_sale,60000,,,37.7,1960474,Plattsburgh,New York,12901,,
+78858,for_sale,159900,3,1,1.2,1133501,Plattsburgh,New York,12901,2814,
+43143,for_sale,110000,,,101,1921933,Plattsburgh,New York,12901,,
+16218,for_sale,189900,4,2,0.39,893322,Keeseville,New York,12944,2225,37812
+23096,for_sale,360000,3,2,3.2,1145563,Willsboro,New York,12996,3200,
+32369,for_sale,116000,,,5.88,1130231,Westport,New York,12993,,43607
+78858,for_sale,439900,3,3,1.75,1329399,Peru,New York,12972,2542,36838
+78858,for_sale,665000,6,5,1.18,1142795,Peru,New York,12972,5782,37109
+67317,for_sale,478900,3,3,42,1626491,Willsboro,New York,12996,1800,38645
+52301,for_sale,179900,3,2,0.38,1732868,Plattsburgh,New York,12901,1752,42961
+16218,for_sale,149000,,,21.9,1846446,Plattsburgh,New York,12901,,
+23093,for_sale,849000,3,3,15.17,1642135,Keeseville,New York,12944,2659,
+52301,for_sale,375000,3,3,1.13,1448371,Plattsburgh,New York,12901,2500,
+43309,for_sale,895000,6,4,11.47,364579,Essex,New York,12936,4307,36293
+23096,for_sale,110000,4,2,0.08,1369328,Plattsburgh,New York,12901,1402,35153
+16218,for_sale,237000,8,5,0.33,476766,Keeseville,New York,12944,3680,
+24744,for_sale,315000,2,1,0.89,1063895,Willsboro,New York,12996,1100,36139
+56190,for_sale,74900,,,1,195748,Willsboro,New York,12996,,36553
+43143,for_sale,129900,6,3,0.11,371073,Plattsburgh,New York,12901,2458,42282
+16218,for_sale,169900,,,2.6,4669,Plattsburgh,New York,12901,,
+23096,for_sale,275000,,,2.7,1283125,Plattsburgh,New York,12901,,
+34012,for_sale,499000,,,10,288928,Plattsburgh,New York,12901,,38492
+90422,for_sale,2850000,2,1,401.69,946707,Willsboro,New York,12996,1200,36350
+67317,for_sale,202500,4,3,6.56,1184951,Westport,New York,12993,2096,
+5624,for_sale,23500,,,6,1945811,Keeseville,New York,12944,,
+38725,for_sale,109000,2,1,0.5,980690,Moriah,New York,12956,3378,41093
+100532,for_sale,59900,,,24.5,1978224,Clintonville,New York,12924,,
+38725,for_sale,249500,4,2,17.8,1427380,Westport,New York,12993,2858,41816
+38725,for_sale,149000,,,130,1974490,Moriah,New York,12956,,
+1527,for_sale,17000,,,0.7,1922896,Lewis,New York,12950,,
+1527,for_sale,159500,,,80,719983,Lewis,New York,12950,,
+85915,for_sale,114900,,,1.49,1449902,Willsboro,New York,12996,,
+96526,for_sale,251000,,,238,1860891,Ausable,New York,12944,,
+78858,for_sale,270000,,,39.07,1216098,Willsboro,New York,12996,,
+85915,for_sale,124900,,,1.14,483534,Willsboro,New York,12996,,
+100532,for_sale,251000,,,238,1860891,Clintonville,New York,12924,,
+90422,for_sale,799000,,,205,1969612,Westport,New York,12993,,
+56011,for_sale,144900,3,2,1.8,846693,Plattsburgh,New York,12901,1248,
+28708,for_sale,127000,3,2,3.2,1754474,Morrisonville,New York,12962,1532,
+23096,for_sale,165000,3,2,1.5,1071573,Morrisonville,New York,12962,1342,34955
+73668,for_sale,168000,4,3,0.41,1139979,Plattsburgh,New York,12901,2080,39498
+52301,for_sale,80000,4,2,0.24,562488,Plattsburgh,New York,12901,1879,42648
+28708,for_sale,355000,4,4,0.29,601201,Plattsburgh,New York,12901,3668,39346
+16218,for_sale,34900,,,1.2,1939451,Peru,New York,12972,,
+78858,for_sale,25000,,,0.96,1953755,Morrisonville,New York,12962,,
+34012,for_sale,255000,3,3,0.92,482156,Peru,New York,12972,1547,43700
+78858,for_sale,339000,10,2,0.24,1330646,Plattsburgh,New York,12901,3110,42657
+18924,for_sale,99000,4,3,0.55,1824996,Schuyler Falls,New York,12985,1763,
+78858,for_sale,195000,3,2,0.12,764102,Plattsburgh,New York,12901,1432,44482
+16218,for_sale,234900,6,2,0.08,1089404,Plattsburgh,New York,12901,1646,38642
+34012,for_sale,59900,,,0.37,1852809,Plattsburgh,New York,12901,,
+55544,for_sale,329000,4,2,0.25,1244524,Plattsburgh,New York,12901,2022,42864
+23096,for_sale,149900,3,3,0.01,1308641,Plattsburgh,New York,12903,1409,38847
+78858,for_sale,249900,3,2,0.01,1245204,Plattsburgh,New York,12903,1450,43889
+78858,for_sale,100000,,,0.64,1848321,Plattsburgh,New York,12901,,
+18924,for_sale,119000,6,2,0.12,1335027,Plattsburgh,New York,12901,2180,38917
+78858,for_sale,314500,3,2,0.52,729334,Plattsburgh,New York,12901,1548,
+51364,for_sale,49900,3,2,1.7,419843,Morrisonville,New York,12962,1458,
+16218,for_sale,149000,3,2,0.56,1125173,Schuyler Falls,New York,12985,1224,39636
+78858,for_sale,117500,4,2,0.28,438371,Plattsburgh,New York,12901,1512,40053
+78858,for_sale,159900,3,2,0.92,356277,Morrisonville,New York,12962,1188,
+23096,for_sale,144900,2,2,0.25,386898,Plattsburgh,New York,12901,1053,
+23096,for_sale,80000,,,40,1964169,Schuyler Falls,New York,12985,,
+78858,for_sale,139900,3,2,0.08,66475,Plattsburgh,New York,12901,1408,41542
+34012,for_sale,327000,3,2,0.2,764038,Plattsburgh,New York,12903,2026,
+16218,for_sale,165900,3,1,0.5,474721,Morrisonville,New York,12962,1178,
+78858,for_sale,325000,3,2,0.19,13188,Plattsburgh,New York,12903,1919,40771
+23096,for_sale,189000,1,2,0.6,13998,Plattsburgh,New York,12901,1995,
+34012,for_sale,279000,13,6,0.53,793293,Morrisonville,New York,12962,4404,
+78858,for_sale,155000,2,1,0.17,1368265,Plattsburgh,New York,12901,844,43676
+52301,for_sale,275000,4,2,0.12,1088151,Plattsburgh,New York,12901,2039,39598
+16218,for_sale,329000,5,3,0.23,1564786,Plattsburgh,New York,12901,2522,41047
+16218,for_sale,665000,4,3,0.38,288882,Plattsburgh,New York,12901,2571,35321
+110032,for_sale,15000,,,5.26,1971330,Peru,New York,12972,,
+24744,for_sale,160000,4,2,8.06,263090,Willsboro,New York,12996,2900,
+43309,for_sale,269000,5,4,0.51,228440,Westport,New York,12993,4100,36642
+16218,for_sale,10900,,,1.19,1935910,Peru,New York,12972,,
+23096,for_sale,199000,4,1,0.22,812231,Plattsburgh,New York,12901,1250,
+23096,for_sale,14500,,,0.2,1130146,Willsboro,New York,12996,,
+16218,for_sale,59900,,,9.1,1917400,Peru,New York,12972,,
+78858,for_sale,29000,,,0.77,1868236,Plattsburgh,New York,12901,,
+8648,for_sale,10000,,,1.03,1947366,Peru,New York,12972,,
+51364,for_sale,184900,3,1,0.67,536196,Plattsburgh,New York,12901,1152,37901
+34012,for_sale,525000,4,6,1.6,198116,Plattsburgh,New York,12901,4100,36621
+87758,for_sale,169900,3,3,0.77,892580,Peru,New York,12901,1904,42598
+100130,for_sale,365000,4,4,0.46,1066872,Plattsburgh,New York,12901,3576,41556
+55544,for_sale,134900,2,1,0.01,871612,Plattsburgh,New York,12901,980,42810
+23096,for_sale,299500,4,3,0.5,956010,Plattsburgh,New York,12901,2290,35244
+87758,for_sale,199900,3,3,0.01,1053964,Plattsburgh,New York,12901,1466,
+23096,for_sale,175000,4,1,0.18,822463,Plattsburgh,New York,12901,960,
+16218,for_sale,29000,,,1.7,1851497,Peru,New York,12972,,
+100130,for_sale,135000,3,3,0.01,1259893,Plattsburgh,New York,12901,1409,
+34012,for_sale,280000,2,2,0.01,1427657,Plattsburgh,New York,12903,1382,41584
+16218,for_sale,15000,,,1.29,1908040,Peru,New York,12972,,
+16218,for_sale,17000,,,1.06,1908041,Peru,New York,12972,,
+18924,for_sale,170000,5,3,0.07,985989,Plattsburgh,New York,12901,2044,43528
+87758,for_sale,199900,4,2,0.17,918983,Plattsburgh,New York,12901,2576,39218
+16218,for_sale,15000,,,0.96,1851498,Peru,New York,12972,,
+16218,for_sale,289900,5,2,0.41,438878,Plattsburgh,New York,12901,2440,42345
+16218,for_sale,259900,5,2,0.19,1447089,Plattsburgh,New York,12901,1873,42580
+16218,for_sale,145995,3,2,1,1034853,Morrisonville,New York,12962,1532,41792
+16218,for_sale,325000,3,4,0.78,602631,Plattsburgh,New York,12901,3176,
+78858,for_sale,319500,3,3,1.39,1050650,Peru,New York,12972,1936,
+7632,for_sale,415000,4,3,12.53,712578,Peru,New York,12972,2364,44158
+16218,for_sale,229995,3,2,0.26,933632,Peru,New York,12972,1752,43280
+34012,for_sale,254900,3,2,0.46,695756,Plattsburgh,New York,12901,1746,
+69801,for_sale,175000,3,2,0.24,484254,Plattsburgh,New York,12901,1422,43397
+52301,for_sale,210000,7,3,0.26,1320565,Plattsburgh,New York,12901,2768,37480
+18924,for_sale,167000,4,2,0.09,1333720,Plattsburgh,New York,12901,1654,42690
+78858,for_sale,299900,6,5,0.23,1229184,Plattsburgh,New York,12901,3363,
+23093,for_sale,190000,,,1.85,5107,Plattsburgh,New York,12901,,
+23093,for_sale,180000,,,1.94,4780,Plattsburgh,New York,12901,,
+2936,for_sale,349000,7,4,0.06,378650,Plattsburgh,New York,12903,4360,42880
+23093,for_sale,225000,,,2.43,5268,Plattsburgh,New York,12901,,
+23093,for_sale,395000,,,6.99,4543,Plattsburgh,New York,12901,,
+34012,for_sale,145000,3,2,3,1617024,Plattsburgh,New York,12901,2918,44132
+85915,for_sale,169900,3,2,0.98,995258,Chazy,New York,12921,1662,43041
+23096,for_sale,345000,2,2,0.08,915066,Plattsburgh,New York,12901,1918,41620
+78858,for_sale,289900,3,3,1.27,1831342,Plattsburgh,New York,12901,2500,40163
+100130,for_sale,169000,3,2,0.64,1136409,Willsboro,New York,12996,1607,
+78858,for_sale,99000,3,1,0.39,1312826,Plattsburgh,New York,12901,1380,
+78858,for_sale,215000,3,2,0.52,208083,Plattsburgh,New York,12901,1547,43297
+23096,for_sale,500000,3,2,17.06,916938,Plattsburgh,New York,12901,1636,39343
+34012,for_sale,255000,,,3.88,1924879,Plattsburgh,New York,12901,,
+34012,for_sale,1100000,,,16.54,1953656,Plattsburgh,New York,12901,,
+34012,for_sale,1300000,,,20.19,1953656,Plattsburgh,New York,12901,,
+83057,for_sale,98000,3,2,0.3,1369276,Port Henry,New York,12974,1359,44384
+17647,for_sale,79900,2,1,0.2,1240406,Port Henry,New York,12974,679,36717
+38725,for_sale,279000,2,1,0.83,523056,Crown Point,New York,12928,650,
+38725,for_sale,675000,3,2,0.34,1032359,Crown Point,New York,12928,1470,
+24624,for_sale,479000,4,4,2.94,945003,Moriah,New York,12956,3550,37607
+52301,for_sale,90000,3,1,0.34,1309457,Plattsburgh,New York,12901,925,43425
+78858,for_sale,89000,3,2,0.2,1316070,Plattsburgh,New York,12901,1432,
+23096,for_sale,329000,4,3,0.27,11468,Plattsburgh,New York,12901,2296,41513
+78858,for_sale,399900,4,4,0.31,793739,Plattsburgh,New York,12901,2627,42752
+16218,for_sale,379900,4,3,0.31,1564703,Plattsburgh,New York,12901,2768,41143
+78858,for_sale,235000,3,3,0.01,1407674,Plattsburgh,New York,12901,1995,44132
+34012,for_sale,289000,4,3,4.3,781178,Schuyler Falls,New York,12862,2400,
+16218,for_sale,129900,6,2,0.16,14662,Plattsburgh,New York,12901,1500,38470
+16218,for_sale,239900,9,4,0.19,1360210,Plattsburgh,New York,12901,1856,38527
+103827,for_sale,180000,1,2,5.1,1392933,Westport,New York,12993,3280,
+87758,for_sale,269900,3,1,0.77,1693618,Chazy,New York,12921,1540,
+24624,for_sale,172000,4,3,2,1106325,Moriah,New York,12998,1367,
+81805,for_sale,76000,4,2,0.4,602474,Moriah,New York,12974,2000,37425
+23096,for_sale,49000,,,3.67,1405721,Lewis,New York,12950,,
+24624,for_sale,59900,,,11.73,1944790,Moriah,New York,12956,,
+24625,for_sale,59900,,,11.73,1944790,Mineville,New York,12956,,
+23096,for_sale,39000,,,2.89,1405722,Lewis,New York,12950,,
+19410,for_sale,59900,,,4.59,1272721,Moriah,New York,12974,,
+24624,for_sale,94900,8,5,0.5,1224691,Moriah,New York,12974,3900,
+38725,for_sale,275000,,,417,1922637,Moriah,New York,12960,,
+38725,for_sale,375000,,,319,1935377,Moriah,New York,12960,,
+51084,for_sale,199000,,,9.2,1903814,Crown Point,New York,12928,,
+24744,for_sale,650000,,,4.3,1884120,Westport,New York,12993,,
+43309,for_sale,109000,,,0.58,1636226,Elizabethtown,New York,12932,,40914
+24624,for_sale,250000,,,3.5,1852525,Crown Point,New York,12928,,
+24744,for_sale,110000,,,0.3,706918,Essex,New York,12936,,
+24625,for_sale,59000,3,1,0.4,1251085,Witherbee,New York,12998,1425,40963
+24625,for_sale,29900,3,2,0.9,1653586,Mineville,New York,12956,1216,
+51084,for_sale,95000,3,2,0.1,1669652,Moriah,New York,12974,1311,43388
+24624,for_sale,70000,3,2,0.2,1088777,Moriah,New York,12956,1296,
+23096,for_sale,115000,3,1,0.2,330785,Mineville,New York,12956,1464,
+36499,for_sale,1495000,2,1,714,1346669,Elizabethtown,New York,12932,700,
+38210,for_sale,130000,,,113.2,1900496,Witherbee,New York,12998,,
+105595,for_sale,1100000,,,192,1169915,Crown Point,New York,12928,,
+69801,for_sale,179000,,,1.8,1953656,Plattsburgh,New York,12901,,
+13305,for_sale,147900,,1,0.74,385667,Moriah,New York,12974,1080,40256
+13305,for_sale,124900,3,2,0.6,1210775,Moriah,New York,12974,1872,42692
+83826,for_sale,169900,2,2,0.8,1162722,Port Henry,New York,12974,1304,41610
+13305,for_sale,119900,4,2,0.22,1003064,Moriah,New York,12974,1944,39178
+70777,for_sale,200000,5,2,1.32,1142718,Elizabethtown,New York,12932,1838,
+83826,for_sale,164500,2,2,0.15,1223323,Port Henry,New York,12974,2080,42815
+36499,for_sale,390000,3,3,2,19658,Moriah,New York,12974,1500,
+13305,for_sale,199900,3,3,0.43,1604930,Moriah,New York,12960,1944,
+38725,for_sale,349000,4,2,2,584031,Moriah,New York,12960,2720,
+5647,for_sale,85000,1,1,0.7,1273571,Port Henry,New York,12974,300,42333
+1527,for_sale,299000,,,0.47,1631690,Elizabethtown,New York,12932,3393,
+23094,for_sale,130000,4,2,0.3,15408,Port Henry,New York,12974,1596,41915
+24624,for_sale,125000,3,1,1.2,612910,Moriah,New York,12960,1116,39160
+83826,for_sale,134900,3,2,0.2,1556430,Mineville,New York,12956,1574,
+24624,for_sale,94900,2,1,0.9,973347,Port Henry,New York,12974,999,
+24624,for_sale,205000,4,2,1.59,938573,Moriah,New York,12956,2235,42968
+19410,for_sale,329900,4,2,29.1,901279,Elizabethtown,New York,12932,2685,
+13305,for_sale,165000,3,2,1,957500,Moriah,New York,12960,1248,42572
+19410,for_sale,109900,,,47.36,1965050,Elizabethtown,New York,12932,,
+80344,for_sale,122000,4,2,0.5,956625,Plattsburgh,New York,12901,2052,42221
+52568,for_sale,229900,9,6,0.9,1449771,Ticonderoga,New York,12883,4220,
+83826,for_sale,575000,4,2,7.86,955845,Crown Point,New York,12928,1597,36507
+36499,for_sale,858500,3,3,0.3,595530,Ticonderoga,New York,12883,2072,43627
+52569,for_sale,100000,4,2,0.13,254817,Plattsburgh,New York,12901,1322,43418
+52301,for_sale,24900,,,2.2,1609562,Plattsburgh,New York,12901,,
+34012,for_sale,28000,,,2,1902962,Peru,New York,12972,,
+78858,for_sale,274900,,,54.6,1111647,Plattsburgh,New York,12901,,39940
+16218,for_sale,20000,,,0.86,1855294,Peru,New York,12972,,
+78858,for_sale,33900,,,1.5,1886228,Plattsburgh,New York,12901,,
+23096,for_sale,499000,,,100,1960824,Schuyler Falls,New York,12962,,
+16218,for_sale,225000,,,23.96,5871,Plattsburgh,New York,12901,,
+34012,for_sale,23000,,,1.16,1902962,Peru,New York,12972,,
+87758,for_sale,385000,14,5,0.29,221470,Plattsburgh,New York,12901,3658,44503
+34012,for_sale,114900,,,7.3,1953656,Plattsburgh,New York,12901,,
+34012,for_sale,499000,,,52,1979529,Plattsburgh,New York,12901,,42740
+78858,for_sale,139000,,,9.1,1086568,Plattsburgh,New York,12901,,
+34012,for_sale,29900,,,0.38,1670637,Plattsburgh,New York,12901,,
+16218,for_sale,499900,,,51,5870,Plattsburgh,New York,12901,,
+23096,for_sale,59500,,,0.25,955694,Plattsburgh,New York,12901,,
+34012,for_sale,150000,,,1.45,1907300,Chazy,New York,12921,,
+52301,for_sale,76900,,,0.42,385275,Plattsburgh,New York,12901,,
+55544,for_sale,264900,5,3,4.8,789223,West Chazy,New York,12992,1806,43858
+13305,for_sale,89900,3,1,0.3,1072414,Ticonderoga,New York,12883,1331,43641
+13305,for_sale,119900,3,1,0.5,478791,Ticonderoga,New York,12883,1314,43740
+67155,for_sale,125000,,,59.4,1907933,Crown Point,New York,12928,,
+19410,for_sale,64900,,,2.2,1866408,Putnam Station,New York,12861,,
+38725,for_sale,250000,,,222,1935376,Crown Point,New York,12928,,
+3791,for_sale,125000,,,47.8,1995083,Ticonderoga,New York,12883,,
+19410,for_sale,10000,,,0.3,1935377,Moriah,New York,12974,,
+19410,for_sale,59900,,,56.6,1932504,Crown Point,New York,12928,,
+38725,for_sale,219000,5,5,0.4,873100,Crown Point,New York,12928,2148,
+13305,for_sale,135000,,,131,1932504,Crown Point,New York,12928,,
+19410,for_sale,159900,3,1,14.7,778619,Ticonderoga,New York,12883,1368,
+52568,for_sale,550000,7,7,5.5,845938,Crown Point,New York,12928,4318,
+19410,for_sale,189000,4,2,0.94,1566926,Ticonderoga,New York,12883,2142,42671
+19410,for_sale,199000,4,2,0.7,1450390,Ticonderoga,New York,12883,1752,43784
+105595,for_sale,34500,,,1.38,1941368,Ticonderoga,New York,12883,,
+19410,for_sale,199000,3,2,0.3,296465,Ticonderoga,New York,12883,1901,43473
+105595,for_sale,19000,,,0.3,1941368,Ticonderoga,New York,12883,,
+51084,for_sale,30000,,,0.3,522944,Ticonderoga,New York,12883,,
+105595,for_sale,595000,,,46.38,1935377,Ticonderoga,New York,12883,,
+52568,for_sale,75000,4,2,0.3,947615,Ticonderoga,New York,12883,1837,43461
+24624,for_sale,20000,3,1,0.4,893645,Ticonderoga,New York,12883,1584,40996
+38725,for_sale,152900,4,2,0.4,483563,Ticonderoga,New York,12883,2030,44210
+65681,for_sale,925000,3,2,0.62,819360,Ticonderoga,New York,12883,1600,
+105595,for_sale,553000,4,1,475.1,512634,Putnam Station,New York,12861,,
+51084,for_sale,40000,,,0.6,938945,Ticonderoga,New York,12883,,
+13305,for_sale,485000,,,1.06,1979112,Ticonderoga,New York,12883,,
+51084,for_sale,135000,3,2,0.3,497193,Crown Point,New York,12928,1040,39072
+19410,for_sale,169900,3,2,0.3,1169530,Ticonderoga,New York,12883,1620,37084
+52568,for_sale,200000,2,1,0.67,764633,Ticonderoga,New York,12883,1170,35725
+105595,for_sale,195000,1,1,40.2,242057,Ticonderoga,New York,12883,576,37977
+81604,for_sale,274900,2,4,0.8,387099,Ticonderoga,New York,12883,2900,
+19410,for_sale,324000,8,4,1,90944,Ticonderoga,New York,12883,3736,37837
+52568,for_sale,329900,4,2,0.5,525882,Ticonderoga,New York,12883,2761,44131
+19410,for_sale,239000,5,3,0.2,822639,Ticonderoga,New York,12883,2088,40368
+51084,for_sale,59900,3,1,0.4,508996,Ticonderoga,New York,12883,1776,37295
+38725,for_sale,529000,3,2,1.12,1667268,Crown Point,New York,12928,1638,
+38725,for_sale,685000,3,1,0.3,196538,Crown Point,New York,12928,1111,
+52568,for_sale,629999,5,3,0.9,1831399,Ticonderoga,New York,12883,1800,41289
+51084,for_sale,349900,2,2,15,831486,Crown Point,New York,12928,1472,41267
+19410,for_sale,119000,3,2,0.2,696910,Ticonderoga,New York,12883,1404,38253
+38725,for_sale,114900,1,1,1.31,918286,Crown Point,New York,12928,1029,36504
+24624,for_sale,49000,3,1,0.18,866785,Crown Point,New York,12928,1436,37853
+19410,for_sale,165000,2,2,0.5,523098,Ticonderoga,New York,12883,1281,41697
+78858,for_sale,249900,3,3,1,1723888,Plattsburgh,New York,12901,2750,
+7632,for_sale,40000,,,1.8,1908043,Peru,New York,12972,,
+34012,for_sale,339000,3,3,1.13,1310235,Plattsburgh,New York,12901,2500,
+34012,for_sale,389000,3,3,1.13,1668847,Plattsburgh,New York,12901,2500,
+34012,for_sale,319000,3,3,1.13,9170,Plattsburgh,New York,12901,2500,44376
+34012,for_sale,200000,,,37.61,1880327,Plattsburgh,New York,12901,,
+34012,for_sale,79900,,,0.51,1869264,Peru,New York,12972,,
+34012,for_sale,210000,,,2.6,1880329,Plattsburgh,New York,12901,,
+34012,for_sale,235000,,,2.98,1880328,Plattsburgh,New York,12901,,
+28708,for_sale,99000,4,2,0.47,15336,Chazy,New York,12921,1248,41779
+34012,for_sale,69900,3,1,0.35,1784959,West Chazy,New York,12992,720,38265
+34012,for_sale,210000,3,2,1.2,692818,Plattsburgh,New York,12901,2597,
+34012,for_sale,49500,2,1,0.3,598852,Clintonville,New York,12924,980,
+106969,for_sale,215000,3,2,0.5,330626,Plattsburgh,New York,12901,1964,40109
+51364,for_sale,199900,5,1,0.22,439019,Rouses Point,New York,12979,2348,
+1253,for_sale,99000,3,1,0.08,113719,Chazy,New York,12921,1381,44238
+52301,for_sale,380000,3,2,12.64,1353081,Chazy,New York,12921,1968,
+41662,for_sale,72500,6,2,0.2,1565278,Ticonderoga,New York,12883,2064,42107
+24624,for_sale,39900,3,2,0.36,377703,Ticonderoga,New York,12883,1603,
+51084,for_sale,119000,4,2,0.3,1447571,Ticonderoga,New York,12883,2974,43096
+13305,for_sale,159900,4,6,25,1437675,Ticonderoga,New York,12883,3137,38285
+67155,for_sale,949000,3,3,68.87,119499,Ticonderoga,New York,12883,2550,
+51084,for_sale,30000,,,0.3,1903548,Ticonderoga,New York,12883,,
+13305,for_sale,129900,2,1,2.5,302902,Ticonderoga,New York,12883,552,
+19410,for_sale,45000,,,7,1995083,Ticonderoga,New York,12883,,
+19410,for_sale,139900,3,3,,427151,Ticonderoga,New York,12883,1759,
+19410,for_sale,129900,4,2,0.2,596539,Ticonderoga,New York,12883,1715,
+97472,for_sale,165000,3,2,0.2,1598584,Ticonderoga,New York,12883,1512,44221
+19410,for_sale,45000,,,4.25,285100,Ticonderoga,New York,12883,,
+19410,for_sale,24000,,,2,1866452,Ticonderoga,New York,12883,,
+52568,for_sale,75000,,,2.43,1960540,Crown Point,New York,12928,,
+52568,for_sale,250000,,,33.46,863319,Crown Point,New York,12928,,37761
+78858,for_sale,179000,4,3,0.43,586794,Rouses Point,New York,12979,2675,42794
+16218,for_sale,210000,5,2,0.92,491446,Plattsburgh,New York,12901,3040,
+16218,for_sale,60000,,,10,1314596,West Chazy,New York,12992,,
+92496,for_sale,345000,5,3,1.1,1708346,Rouses Point,New York,12979,2800,42690
+16218,for_sale,250000,3,2,4.79,131974,West Chazy,New York,12992,1956,43642
+78858,for_sale,159999,3,2,0.75,1757802,Plattsburgh,New York,12901,1296,38938
+16218,for_sale,315000,3,2,0.75,950925,Plattsburgh,New York,12901,1465,43629
+100130,for_sale,299900,3,3,2.1,335232,Morrisonville,New York,12962,2362,
+110032,for_sale,349000,3,3,0.5,331453,Rouses Point,New York,12979,2680,42724
+51364,for_sale,159900,3,1,0.52,332342,Rouses Point,New York,12979,1138,
+51364,for_sale,179900,3,1,1.2,1805115,Chazy,New York,12921,1490,
+90422,for_sale,750000,4,3,65.2,1417961,West Chazy,New York,12992,3608,43210
+34012,for_sale,14900,,,0.15,1946706,Rouses Point,New York,12979,,
+34012,for_sale,14900,,,0.15,1946705,Rouses Point,New York,12979,,
+34012,for_sale,99900,,,2.04,1858534,Rouses Point,New York,12979,,
+34012,for_sale,35000,,,0.24,1946707,Rouses Point,New York,12979,,
+34012,for_sale,35000,,,0.27,1946704,Rouses Point,New York,12979,,
+34012,for_sale,30000,,,0.3,1946708,Rouses Point,New York,12979,,
+34012,for_sale,159900,3,2,1.3,1012057,Plattsburgh,New York,12901,1890,40905
+87758,for_sale,75000,3,2,0.25,1109492,Plattsburgh,New York,12901,1064,34767
+16218,for_sale,474000,2,3,0.28,1531257,Champlain,New York,12919,1480,
+96526,for_sale,59900,,,24.5,1978228,Ausable,New York,12924,,
+56081,for_sale,179900,8,5,0.8,1820365,Chazy,New York,12921,5000,
+78858,for_sale,144900,3,2,0.62,636109,Plattsburgh,New York,12901,1146,
+8648,for_sale,18900,,,1.7,1965945,Beekmantown,New York,12901,,
+8648,for_sale,10900,,,0.3,1965945,Beekmantown,New York,12901,,
+78858,for_sale,42000,,,0.9,1449662,West Chazy,New York,12992,,
+96526,for_sale,810000,,,1583,1853716,Black Brook,New York,12944,,
+51364,for_sale,99000,3,2,0.69,1182566,West Chazy,New York,12992,1352,35396
+78858,for_sale,89900,4,2,0.34,1168866,Keeseville,New York,12944,1946,44218
+34012,for_sale,450000,4,4,0.91,483844,Morrisonville,New York,12962,4800,41890
+8648,for_sale,29900,,,1.72,1883118,Beekmantown,New York,12992,,
+16218,for_sale,175000,3,1,0.16,732415,Peru,New York,12972,1310,36503
+23096,for_sale,210000,4,2,0.28,1121183,Plattsburgh,New York,12901,2232,
+28708,for_sale,59000,,,0.6,1257903,Plattsburgh,New York,12901,,
+78858,for_sale,150000,,,25.02,1838372,Morrisonville,New York,12962,,
+34012,for_sale,27900,,,0.72,1896671,Morrisonville,New York,12962,,
+34012,for_sale,45000,,,0.25,1881157,Plattsburgh,New York,12901,,
+34012,for_sale,80000,,,0.49,1881159,Plattsburgh,New York,12901,,
+110032,for_sale,195000,,,6.3,590390,Cadyville,New York,12918,,
+78858,for_sale,225000,4,2,1.43,918280,Plattsburgh,New York,12901,2446,34557
+78858,for_sale,449000,4,4,0.33,1450749,Plattsburgh,New York,12901,4465,44449
+16218,for_sale,264000,8,3,0.28,1567786,Plattsburgh,New York,12901,3466,43796
+23096,for_sale,75000,,,25.9,1948254,Morrisonville,New York,12962,,
+78858,for_sale,129900,2,1,0.57,725021,West Chazy,New York,12992,1680,36521
+16218,for_sale,204000,3,2,1.1,1283907,West Chazy,New York,12992,1431,43794
+16218,for_sale,179000,3,2,0.25,1644549,West Chazy,New York,12992,1648,
+51084,for_sale,199000,,,5.5,1904583,Schroon Lake,New York,12870,,
+67155,for_sale,269900,3,2,2.64,1681649,Hague,New York,12836,1782,
+51084,for_sale,654900,2,1,0.75,1520808,Schroon Lake,New York,12870,1466,
+19410,for_sale,159900,,,93.21,1866406,Putnam Station,New York,12861,,
+67155,for_sale,14900,,,0.17,1877267,Ticonderoga,New York,12883,,
+13305,for_sale,19900,,,3,1919452,Crown Point,New York,12928,,
+67155,for_sale,99500,,,23,1903701,Hague,New York,12836,,
+19410,for_sale,45000,,,3.31,985133,Putnam Station,New York,12861,,
+19410,for_sale,89900,,,31.7,1028832,Putnam Station,New York,12861,,
+19410,for_sale,59900,,,1.97,1866407,Putnam Station,New York,12861,,
+82261,for_sale,55000,,,17.74,1757407,Whitehall,New York,12887,,
+82261,for_sale,49000,,,17.7,1845658,Whitehall,New York,12887,,
+75624,for_sale,199900,,,165,521768,Hebron,New York,12832,,
+56755,for_sale,248900,,,312,196992,Granville,New York,12832,,
+82261,for_sale,299000,,,1.3,212578,Hampton,New York,12837,1120,
+42002,for_sale,695000,4,4,34.5,635975,Argyle,New York,12809,3460,
+46183,for_sale,675000,16,16,0.01,1138375,Whitehall Village,New York,12887,8852,
+38725,for_sale,198000,3,1,16,908719,Crown Point,New York,12928,1120,
+67155,for_sale,299000,2,2,0.25,386675,Hague,New York,12836,850,
+67155,for_sale,93500,3,2,1.79,1637630,Putnam Station,New York,12861,900,
+35458,for_sale,475000,2,1,0.14,914645,Hague,New York,12836,816,
+52568,for_sale,850000,5,4,0.16,1828086,Hague,New York,12836,4000,37644
+14793,for_sale,305000,4,2,7,887261,Crown Point,New York,12928,2600,44620
+1526,for_sale,149900,1,1,2.8,1301612,Schroon Lake,New York,12870,552,42214
+94424,for_sale,279900,3,1,7.32,1365761,Putnam Station,New York,12861,1200,44082
+19410,for_sale,389000,2,1,0.56,1659711,Hague,New York,12836,720,
+51084,for_sale,4250000,5,5,1.03,1121943,Hague,New York,12836,5342,
+51084,for_sale,45000,,,30.1,1903444,Crown Point,New York,12928,,
+13305,for_sale,99900,4,1,0.35,1761232,Ticonderoga,New York,12883,1078,44158
+51084,for_sale,35000,,,7.3,1903519,Putnam Station,New York,12861,,
+13305,for_sale,169900,4,2,0.2,1751663,Ticonderoga,New York,12883,2521,
+13305,for_sale,149900,,,69,1568674,Putnam Station,New York,12861,,37215
+98597,for_sale,169000,,,235.5,1905501,Crown Point,New York,12928,,
+67155,for_sale,56000,,,0.2,1774149,Ticonderoga,New York,12883,,39395
+19410,for_sale,34900,,,0.3,342474,Ticonderoga,New York,12883,,
+19410,for_sale,139900,,,27.23,1907261,Hague,New York,12836,,
+13305,for_sale,69900,,,1.5,1871237,Hague,New York,12836,,
+82261,for_sale,639000,4,2,0.17,925389,Putnam Station,New York,12861,1750,
+13305,for_sale,209000,,,39.5,1871237,Hague,New York,12836,,
+91170,for_sale,799000,,,2.3,1859778,Hague,New York,12836,,
+67155,for_sale,144900,,,1.03,1871587,Putnam Station,New York,12861,,
+109987,for_sale,325000,,,6.4,1856157,Ticonderoga,New York,12883,,
+32369,for_sale,75000,,,50.94,591902,Moriah Center,New York,12961,,35151
+13305,for_sale,129900,,,1.3,1871237,Hague,New York,12836,,
+10211,for_sale,129900,3,1,1.1,1271919,North Hudson,New York,12855,712,43010
+13305,for_sale,119900,1,1,25,1808317,Hague,New York,12836,1088,40053
+19410,for_sale,59900,,,50.53,1856113,Ticonderoga,New York,12883,,
+51084,for_sale,174900,3,2,1,1127229,Schroon Lake,New York,12870,1404,
+67155,for_sale,65000,,,6.53,1725598,Hague,New York,12836,,
+24624,for_sale,71000,,,1.7,1098863,North Hudson,New York,12885,,
+82261,for_sale,90000,,,25.98,1866455,Dresden,New York,12819,,
+82261,for_sale,139900,,,24.61,1886043,Dresden,New York,12841,,
+85576,for_sale,20000,,,0.42,1874386,Argyle,New York,12809,,
+52568,for_sale,150000,,,62.4,1235930,Argyle,New York,12809,,
+17647,for_sale,25400,,,0.82,1866417,Fort Ann,New York,12827,,
+10211,for_sale,1100000,4,5,10,514756,Hudson Falls,New York,12839,6520,
+9032,for_sale,32000,,,1.07,1887193,Kingsbury,New York,12839,,
+27253,for_sale,36900,,,9,1969139,Kingsbury,New York,12839,,
+82261,for_sale,629000,3,3,,633159,Dresden,New York,12841,2207,39581
+45932,for_sale,495000,,,0.85,622652,Dresden,New York,12841,1100,
+45932,for_sale,350000,,,3.38,622653,Whitehall,New York,12841,,
+45690,for_sale,185000,4,2,2,1165158,Hudson Falls,New York,12839,1608,43382
+107525,for_sale,155000,,1,35.24,308107,Argyle,New York,12809,480,41933
+10485,for_sale,691000,3,3,1.82,1860798,Poughkeepsie,New York,12603,2923,
+26692,for_sale,2250000,4,4,0.92,477678,Orient,New York,11957,,33896
+26692,for_sale,2650000,5,5,1.05,701650,Orient,New York,11957,4785,44265
+24178,for_sale,7500000,,,33.1,1112778,Orient,New York,11957,,37344
+16829,for_sale,2499000,3,2,0.58,1025874,Orient,New York,11957,,37033
+101257,for_sale,3500000,5,3,1.33,209516,Orient,New York,11957,2400,
+10060,for_sale,2995000,,,34.5,884261,Orient,New York,11957,,42815
+24178,for_sale,499000,1,1,0.12,1033630,Greenport,New York,11944,900,
+29034,for_sale,2499000,5,6,0.65,200155,Greenport,New York,11944,5053,43558
+29034,for_sale,1450000,4,3,0.43,1355163,Greenport,New York,11944,2400,44469
+28985,for_sale,1950000,4,3,0.64,322393,East Marion,New York,11939,2500,38047
+29034,for_sale,795000,3,2,0.4,1790779,Greenport,New York,11944,1800,34526
+16829,for_sale,1790000,4,4,0.58,1521700,Greenport,New York,11944,3000,37910
+29000,for_sale,1999000,3,2,1.04,835777,Mattituck,New York,11952,,
+29034,for_sale,3250000,3,1,9.16,1410756,Southold,New York,11971,1500,
+98425,for_sale,795000,,1,,950362,Greenport,New York,11944,3870,37558
+57780,for_sale,2300000,4,5,0.92,713565,East Marion,New York,11939,7000,37236
+29034,for_sale,449000,,,0.94,1261528,Greenport,New York,11944,,42474
+98425,for_sale,875000,5,2,,1166213,Greenport,New York,11944,2415,
+18329,for_sale,299000,,,0.49,390272,Greenport,New York,11944,,
+16829,for_sale,895000,,,1.39,1194434,Orient,New York,11957,,44496
+91607,for_sale,1099999,3,2,0.14,1433896,Greenport,New York,11944,,35487
+24178,for_sale,3300000,4,5,2,1496801,Greenport,New York,11944,2800,
+28985,for_sale,999000,4,4,0.54,1790755,Southold,New York,11971,2775,32682
+29034,for_sale,799000,3,3,0.51,1763413,Southold,New York,11971,,39834
+101257,for_sale,1079000,2,2,0.1,270318,Greenport,New York,11944,1300,33225
+24178,for_sale,875000,5,2,0.25,1166214,Greenport,New York,11944,2415,
+98425,for_sale,3300000,4,3,,1496801,Greenport,New York,11944,2800,
+26692,for_sale,600000,,,1.67,101276,Greenport,New York,11944,,38490
+24178,for_sale,3500000,5,5,0.67,519419,Southold,New York,11971,5000,43644
+91607,for_sale,679990,3,2,0.08,704327,Greenport,New York,11944,,
+100236,for_sale,799000,4,2,0.35,754707,Orient,New York,11957,1560,39617
+28985,for_sale,825000,4,2,1.18,1602795,East Marion,New York,11939,1800,33009
+28985,for_sale,1300000,4,3,0.98,860479,East Marion,New York,11939,,43881
+28985,for_sale,1899000,3,2,0.68,539545,Greenport,New York,11944,,30091
+10060,for_sale,749000,2,1,,59238,Greenport,New York,11944,800,
+24178,for_sale,849000,4,2,0.12,1482048,Greenport,New York,11944,2700,42538
+26692,for_sale,1200000,4,3,1.71,1515515,Greenport,New York,11944,2800,39149
+29034,for_sale,1200000,5,4,2.14,907064,East Marion,New York,11939,,
+29034,for_sale,875000,4,1,0.73,1355317,Greenport,New York,11944,,
+28985,for_sale,779000,3,2,0.17,927122,Greenport,New York,11944,1050,31043
+91607,for_sale,999999,4,4,0.12,1434732,Greenport,New York,11944,,
+26692,for_sale,500000,2,2,0.02,1480116,Greenport,New York,11944,700,39926
+16829,for_sale,1250000,2,3,0.3,1199783,Greenport,New York,11944,1630,41381
+29034,for_sale,799000,2,1,0.11,647957,East Marion,New York,11939,,43139
+101257,for_sale,1200000,4,2,0.38,468909,Southold,New York,11971,1680,41843
+69390,for_sale,1999000,4,3,0.61,417814,East Marion,New York,11939,,44487
+53016,for_sale,3000000,7,5,16.62,1297759,Pawling,New York,12564,7000,34100
+19426,for_sale,219999,2,1,0.19,871228,Patterson,New York,12563,598,36775
+50648,for_sale,449900,4,3,1.26,1597931,Lagrangeville,New York,12540,2238,27366
+51262,for_sale,389000,3,3,0.04,1758899,Pawling,New York,12564,2563,38552
+19426,for_sale,549999,3,3,1.41,598509,Brewster,New York,10509,2330,
+63270,for_sale,470000,,,15.92,1670623,Pawling,New York,12564,,
+63270,for_sale,235000,,,9.88,1759836,Pawling,New York,12564,,
+63270,for_sale,235000,,,6.04,1669606,Pawling,New York,12564,,
+90051,for_sale,99000,,,2.75,1953400,Patterson,New York,12563,,30553
+63270,for_sale,199000,,,7.57,987169,Brewster,New York,10509,,
+41532,for_sale,1200000,,,34.03,1427722,Pawling,New York,12564,,41473
+15371,for_sale,250000,4,2,0.36,995036,Pawling,New York,12564,1950,38148
+11489,for_sale,2500000,5,7,205,599699,Poughquag,New York,12570,11500,
+45490,for_sale,190000,,,11.49,1311636,Holmes,New York,12531,,
+45490,for_sale,175000,,,9.01,1139586,Holmes,New York,12531,,
+81006,for_sale,125000,,,2.18,1697878,Patterson,New York,12563,,
+10485,for_sale,899000,,,80.52,541725,Lagrangeville,New York,12540,,
+20088,for_sale,700000,,,2.14,421557,Brewster,New York,10509,,
+16829,for_sale,3000000,,,34.2,1095022,Patterson,New York,12563,,42654
+13536,for_sale,399000,,,43.19,1451466,Patterson,New York,12563,,
+97116,for_sale,149900,,,2.47,1979907,Poughquag,New York,12570,,
+97115,for_sale,149900,,,2.47,1979907,Hopewell Junction,New York,12533,,
+22611,for_sale,135000,,,1.05,1139241,Brewster,New York,10509,,30853
+22611,for_sale,135000,,,0.91,1566468,Brewster,New York,10509,,30853
+10485,for_sale,2499000,,,215.42,883581,Millbrook,New York,12514,,
+10485,for_sale,359900,,,3.35,1072545,Brewster,New York,10509,,42499
+13536,for_sale,800000,,,15.09,970738,Patterson,New York,12563,,
+103881,for_sale,1925000,3,3,30,697775,Brewster,New York,10509,18600,35844
+45490,for_sale,712000,4,4,7.19,812705,Holmes,New York,12531,3665,
+42943,for_sale,15000000,8,12,466.58,331949,Poughquag,New York,12570,18000,
+37314,for_sale,1750000,5,7,15,272539,Millbrook,New York,12545,5696,43507
+70358,for_sale,424995,,,55.89,1003887,Patterson,New York,12563,,43494
+22611,for_sale,190000,,,16.51,196498,Patterson,New York,12563,,40177
+30536,for_sale,60000,,,,1963790,Wingdale,New York,12594,,44050
+77876,for_sale,399000,,,66,405274,Poughquag,New York,12570,,35236
+63273,for_sale,999000,,,171.67,462981,Poughquag,New York,12570,,
+45504,for_sale,160000,,,3.79,1499548,Brewster,New York,10509,,
+79729,for_sale,789000,4,4,11.24,1344275,Clinton Corners,New York,12514,4135,34745
+45504,for_sale,190000,,,9.18,1645381,Brewster,New York,10509,,
+45504,for_sale,185000,,,5.4,1369515,Brewster,New York,10509,,
+45504,for_sale,185000,,,4.04,1619816,Brewster,New York,10509,,
+45504,for_sale,225000,,,9.26,1212506,Brewster,New York,10509,,
+45499,for_sale,675000,5,3,8.84,264365,Verbank,New York,12585,2358,29032
+45504,for_sale,165000,,,3.72,1609734,Brewster,New York,10509,,
+45504,for_sale,165000,,,3.7,1745476,Brewster,New York,10509,,
+10485,for_sale,300000,,,20.03,1872547,Lagrangeville,New York,12540,,
+45504,for_sale,185000,,,3.67,1653101,Brewster,New York,10509,,
+45504,for_sale,185000,,,3.67,1637579,Brewster,New York,10509,,
+22611,for_sale,189000,,,1.71,571043,Brewster,New York,10509,,
+10485,for_sale,1300000,,,357,1870468,Poughquag,New York,12570,,44021
+45490,for_sale,400000,,,,1732559,Brewster,New York,10509,,
+63270,for_sale,350000,2,2,4.23,308099,Pawling,New York,12564,2836,
+10485,for_sale,339000,3,3,1.24,1138856,Pawling,New York,12564,1748,36648
+22257,for_sale,185000,,,12.11,525721,Brewster,New York,10509,,
+38595,for_sale,225000,,,9.65,436388,Pawling,New York,12564,,
+63273,for_sale,239000,,,6.03,1899920,Brewster,New York,10509,,
+31980,for_sale,1480000,3,2,173.53,1762137,Patterson,New York,12563,5849,
+73528,for_sale,729900,4,5,5.46,86146,Patterson,New York,12563,3312,43550
+45490,for_sale,289900,3,1,0.23,1311249,Patterson,New York,12563,1098,43040
+10485,for_sale,449900,4,3,0.52,517315,Verbank,New York,12585,2092,39155
+10485,for_sale,390000,3,2,1.3,508348,Salt Point,New York,12578,1336,43042
+45949,for_sale,825000,5,3,1.02,75218,Pawling,New York,12564,3200,41072
+38595,for_sale,495000,6,3,0.5,696763,Pawling,New York,12564,2514,
+63273,for_sale,1499000,,,30,1194493,Pawling,New York,12564,,
+63273,for_sale,1499000,,,68.39,1937982,Pawling,New York,12564,,35740
+16834,for_sale,650000,,,129.3,1031285,Clinton Corners,New York,12514,,
+81852,for_sale,59000,,,6.5,1216926,Clinton Corners,New York,12514,,43139
+63270,for_sale,225000,,,14.44,1126827,Brewster,New York,10509,,
+87158,for_sale,260000,,,4.3,1794141,Clinton Corners,New York,12514,,36377
+13536,for_sale,5900000,,,25,907266,Brewster,New York,10509,,
+37314,for_sale,1695000,7,5,22.93,460343,Lagrangeville,New York,12540,4874,35956
+59257,for_sale,319000,4,2,1.86,1708272,Pawling,New York,12564,2082,35508
+93967,for_sale,995000,4,4,4.4,563746,Lagrangeville,New York,12540,3192,
+10485,for_sale,514900,4,3,1.26,561009,Poughquag,New York,12570,2080,31646
+16914,for_sale,495000,,,55.9,1987568,Millbrook,New York,12545,,
+48310,for_sale,1250000,4,5,22.39,1565071,Holmes,New York,12531,7250,34625
+22257,for_sale,695000,5,3,2,307905,Brewster,New York,10509,3186,38212
+16834,for_sale,1685000,4,3,31.25,78482,Pawling,New York,12564,3508,41425
+16834,for_sale,1250000,4,3,6.1,1273128,Pawling,New York,12564,3245,
+51262,for_sale,255999,2,2,,277195,Brewster,New York,10509,1244,
+63270,for_sale,1056400,3,3,6.03,613262,Brewster,New York,10509,2818,40585
+10485,for_sale,425000,3,3,1.37,541581,Lagrangeville,New York,12540,1750,41092
+15371,for_sale,255000,,,23.9,1926739,Lagrangeville,New York,12540,,37613
+79729,for_sale,233000,2,1,0.18,1216428,Clinton Corners,New York,12514,1086,
+15371,for_sale,325000,2,3,0.34,1212646,Wingdale,New York,12594,2225,40189
+10485,for_sale,470000,3,3,0.74,985229,Pawling,New York,12564,1976,34684
+77876,for_sale,179900,,,10.98,1869887,Verbank,New York,12585,,
+13536,for_sale,699999,4,3,1.03,795015,Patterson,New York,12563,3200,44434
+10485,for_sale,1200000,3,2,18.59,1273285,Clinton Corners,New York,12514,1680,
+77876,for_sale,129900,,,1.03,1869886,Verbank,New York,12585,,
+77876,for_sale,135000,,,1.67,1869884,Verbank,New York,12585,,
+53336,for_sale,75000,,,1.34,523976,Wingdale,New York,12594,,43789
+41533,for_sale,275000,,,31.93,1891382,Salt Point,New York,12578,,43340
+51811,for_sale,85000,,,3.1,325989,Wingdale,New York,12594,,44109
+10485,for_sale,995000,3,3,60.6,798580,Salt Point,New York,12578,4056,
+10485,for_sale,399000,3,3,0.21,732607,Poughquag,New York,12570,1920,
+109909,for_sale,439900,4,2,1.9,1437183,Poughquag,New York,12570,2238,38925
+51262,for_sale,450000,3,2,1.21,731643,Patterson,New York,12563,,
+53336,for_sale,550000,3,2,1.04,653992,Poughquag,New York,12570,2810,
+16914,for_sale,299000,4,1,0.65,822225,Lagrangeville,New York,12540,1968,38820
+38595,for_sale,375000,3,2,0.36,793321,Pawling,New York,12564,1386,34333
+10485,for_sale,329000,2,2,0.97,1407027,Pawling,New York,12564,2365,
+53332,for_sale,859999,4,5,3.18,1447305,Pawling,New York,12564,6042,
+38595,for_sale,1650000,3,5,11.41,1545495,Patterson,New York,12563,4295,33652
+53332,for_sale,2350000,4,4,75,1421668,Patterson,New York,12563,3224,41827
+45488,for_sale,699000,3,2,15.24,1005117,Millbrook,New York,12585,1050,34697
+53332,for_sale,950000,6,6,8.91,12260,Pawling,New York,12564,6003,
+63273,for_sale,539000,3,3,0.9,652531,Pawling,New York,12564,2256,
+53332,for_sale,630000,4,3,3.11,1088522,Patterson,New York,12563,3312,34837
+63273,for_sale,425000,4,2,1,1619885,Poughquag,New York,12570,1660,36248
+10485,for_sale,699000,4,4,7.1,1305557,Pawling,New York,12564,2820,36138
+10485,for_sale,225000,3,1,3.57,978921,Wingdale,New York,12594,1008,
+10485,for_sale,225000,3,2,2.65,810168,Wingdale,New York,12594,816,41185
+45490,for_sale,475000,3,3,1.04,1025944,Pawling,New York,12564,2314,37378
+63270,for_sale,90000,,,2.42,1619646,Poughquag,New York,12570,,
+19426,for_sale,599999,5,3,1.64,1245324,Brewster,New York,10509,3528,35016
+73528,for_sale,679000,4,3,3.41,847060,Pawling,New York,12564,2998,43790
+10485,for_sale,849000,4,4,1.02,1760579,Patterson,New York,12563,3610,44600
+81852,for_sale,350000,,,1.32,815442,Poughquag,New York,12570,,33542
+30536,for_sale,275000,1,1,0.2,422164,Holmes,New York,12531,733,39251
+10485,for_sale,889000,3,3,7.55,312855,Staatsburg,New York,12580,4978,37818
+81852,for_sale,560000,3,4,1.09,1052564,Poughquag,New York,12570,3230,36207
+63273,for_sale,375000,3,2,0.33,11968,Pawling,New York,12564,1160,
+44039,for_sale,459000,3,4,0.22,1815181,Pawling,New York,12564,1991,39006
+78357,for_sale,499900,3,3,5.54,1141007,Pawling,New York,12564,1700,
+10485,for_sale,550000,3,2,1.43,919806,Brewster,New York,10509,2566,35705
+45490,for_sale,795000,,,87.21,18701,Patterson,New York,12563,,
+10485,for_sale,550000,5,4,3,1584968,Pawling,New York,12564,3497,31644
+10485,for_sale,439999,3,2,2.34,984767,Poughquag,New York,12570,1444,41544
+42943,for_sale,725000,3,2,5.16,1645659,Millbrook,New York,12578,2792,29388
+13536,for_sale,469999,5,2,0.82,1669315,Brewster,New York,10509,2128,28118
+45504,for_sale,1499000,2,1,3.9,517326,Pawling,New York,12564,1800,
+45488,for_sale,775000,3,2,13.92,508409,Wingdale,New York,12594,4160,35621
+84536,for_sale,599000,4,3,3.38,1226112,Poughquag,New York,12570,2582,43669
+45504,for_sale,155000,,,5.4,1566344,Pawling,New York,12564,,
+10485,for_sale,525000,3,4,1.52,821051,Pawling,New York,12564,3500,35877
+28990,for_sale,529900,3,2,0.48,602900,Brewster,New York,10509,1859,39678
+107997,for_sale,2000000,,,101.4,646851,Pawling,New York,12564,,
+46079,for_sale,350000,4,3,2,1620317,Lagrangeville,New York,12540,2712,37215
+53332,for_sale,400000,3,3,0.29,1142412,Brewster,New York,10509,2250,30566
+51262,for_sale,517000,6,3,2.3,1566678,Brewster,New York,10509,2927,
+16829,for_sale,599000,4,2,0.72,956212,Brewster,New York,10509,2598,
+37314,for_sale,1475000,3,4,5.46,1404526,Millbrook,New York,12545,4427,36874
+77876,for_sale,1295000,3,3,20,750520,Poughquag,New York,12570,2900,37946
+53332,for_sale,325000,3,2,0.34,481862,Brewster,New York,10509,1856,39336
+41534,for_sale,650000,4,3,0.59,522406,Pawling,New York,12564,3277,38954
+70357,for_sale,49900,2,2,,331729,Wingdale,New York,12594,980,
+10485,for_sale,680000,3,3,5.16,841919,Millbrook,New York,12545,2448,43557
+22611,for_sale,575000,3,3,4.5,1230611,Brewster,New York,10509,2760,41409
+78357,for_sale,639900,3,3,1.06,33423,Brewster,New York,10509,2765,33619
+13536,for_sale,775000,3,2,8.3,197033,Holmes,New York,12531,1546,
+77876,for_sale,1395000,6,5,41.03,966360,Poughquag,New York,12570,4000,40226
+44039,for_sale,350000,,,0.13,116273,Patterson,New York,12563,1550,41782
+12212,for_sale,250000,4,1,,451639,Holmes,New York,12531,1800,
+81852,for_sale,450000,3,2,10.5,1486766,Poughquag,New York,12570,1896,39666
+52892,for_sale,300000,1,2,0.03,619459,Patterson,New York,12563,1307,43185
+45949,for_sale,599000,3,4,1.1,1717054,Brewster,New York,10509,3351,38891
+22611,for_sale,775000,4,3,0.92,917480,Brewster,New York,10509,3996,37123
+68797,for_sale,850000,4,5,3.42,1259761,Brewster,New York,10509,4400,38798
+73491,for_sale,1095000,3,4,2.51,1053168,Poughquag,New York,12570,4285,35314
+45488,for_sale,739000,3,3,3.05,437383,Brewster,New York,10509,2419,37844
+19426,for_sale,199900,2,1,0.09,915338,Brewster,New York,10509,1012,37046
+45949,for_sale,275000,4,2,0.2,1417909,Wingdale,New York,12594,1735,41607
+10485,for_sale,515000,3,2,3.28,179259,Poughquag,New York,12570,2060,
+41534,for_sale,1125000,3,3,8.94,1051929,Millbrook,New York,12545,4748,
+88264,for_sale,6500000,8,11,20,1813246,Pawling,New York,12564,9301,
+42093,for_sale,70000,2,1,0.14,484500,Brewster,New York,10509,955,36060
+10485,for_sale,315000,6,1,0.22,847330,Clinton Corners,New York,12514,1488,42930
+77876,for_sale,595000,2,3,10.18,1192114,Clinton Corners,New York,12514,1260,38503
+19426,for_sale,519000,3,2,1.63,820826,Brewster,New York,10509,2048,42003
+52892,for_sale,425000,2,3,0.01,1319744,Brewster,New York,10509,2637,42984
+22611,for_sale,495000,3,2,3.53,255214,Brewster,New York,10509,1616,43266
+10485,for_sale,157000,1,1,,1883374,Patterson,New York,10512,706,44581
+29619,for_sale,359900,3,2,0.74,68746,Poughquag,New York,12570,1700,43495
+10485,for_sale,42500,,,2.65,789348,Wingdale,New York,12594,,
+78206,for_sale,349000,2,1,0.41,1255103,Brewster,New York,10509,808,30942
+10485,for_sale,275000,,,37.22,1956855,Pawling,New York,12564,,
+45049,for_sale,549000,3,3,1.13,771638,Lagrangeville,New York,12540,2292,29047
+51262,for_sale,398000,3,2,1.81,1745694,Verbank,New York,12585,2100,
+10485,for_sale,425000,3,3,1.22,1025264,Lagrangeville,New York,12540,1920,31762
+10485,for_sale,299000,2,2,0.31,653429,Millbrook,New York,12585,1167,43154
+14414,for_sale,375000,2,2,1.21,1565005,Brewster,New York,10509,1631,43915
+10485,for_sale,325000,3,1,1.06,915054,Pawling,New York,12564,1047,30621
+68797,for_sale,849000,4,4,3.24,196918,Brewster,New York,10509,4640,38105
+22611,for_sale,425000,2,2,0.26,1260893,Patterson,New York,12563,2000,43783
+53232,for_sale,399000,4,3,0.18,917108,Poughquag,New York,12570,2158,36767
+10485,for_sale,649000,3,4,5.58,672791,Patterson,New York,12563,3070,31181
+30536,for_sale,409999,3,3,0.17,652005,Pawling,New York,12564,2130,43255
+45949,for_sale,430000,2,2,0.6,653938,Brewster,New York,10509,1858,43782
+53332,for_sale,349900,1,1,0.32,438733,Patterson,New York,12563,1217,43077
+16836,for_sale,2975000,5,6,62.54,1609656,Pawling,New York,12564,8000,34389
+10809,for_sale,447000,3,2,0.8,831629,Brewster,New York,10509,1810,35685
+30510,for_sale,375000,3,2,1.58,1585015,Brewster,New York,10509,,43910
+107956,for_sale,529000,4,3,1.4,985128,Brewster,New York,10509,2500,29509
+100276,for_sale,395000,2,4,0.01,1770701,Brewster,New York,10509,2024,40723
+28990,for_sale,380000,2,2,0.01,918457,Brewster,New York,10509,2012,44327
+22611,for_sale,319000,1,2,0.1,185970,Carmel,New York,10512,2203,43032
+13536,for_sale,299000,3,2,0.59,1137407,Carmel,New York,10512,805,
+15371,for_sale,515000,3,3,0.65,1259652,Poughquag,New York,12570,2709,36095
+87576,for_sale,549980,4,3,0.69,603340,Ridge,New York,11961,2537,44095
+58492,for_sale,429900,3,2,0.54,1104825,Shoreham,New York,11786,,
+28981,for_sale,3700000,5,8,1.98,916691,Belle Terre,New York,11777,7000,39616
+22022,for_sale,139990,,,0.22,268566,Centereach,New York,11720,,
+28980,for_sale,425000,3,2,0.33,15656,Coram,New York,11727,1085,36335
+91607,for_sale,669000,4,3,1.22,405386,Centereach,New York,11720,3400,42954
+43470,for_sale,749000,7,4,2.15,387337,Setauket,New York,11733,2972,42201
+24354,for_sale,274999,,,0.56,524451,Miller Place,New York,11764,,
+22022,for_sale,599000,,,5.09,118870,Ridge,New York,11961,,
+91306,for_sale,150000,,,0.46,1282419,Port Jefferson Station,New York,11776,,
+45484,for_sale,169999,,,0.34,1870682,Middle Island,New York,11953,,
+78729,for_sale,259990,,,0.66,840817,Centereach,New York,11720,,39395
+29022,for_sale,449000,3,2,0.25,10187,Lake Grove,New York,11755,,44459
+45484,for_sale,1399000,4,4,0.69,331522,Mount Sinai,New York,11766,3790,31925
+91607,for_sale,299999,3,2,0.27,983337,Rocky Point,New York,11778,,38749
+78729,for_sale,145000,1,1,,112381,Selden,New York,11784,,
+78729,for_sale,150000,,,0.71,1988407,Ronkonkoma,New York,11779,,
+40868,for_sale,179996,1,1,0.18,1566770,Rocky Point,New York,11778,,31345
+87416,for_sale,159000,,,0.18,1890819,Miller Place,New York,11764,,32679
+15493,for_sale,649990,5,3,0.34,1759165,Centereach,New York,11720,,44396
+30510,for_sale,515000,,,0.14,409284,Port Jefferson,New York,11777,,41498
+10485,for_sale,782750,4,4,1.57,1847392,Hopewell Junction,New York,12533,4199,
+10485,for_sale,169900,,,8.01,1886918,Holmes,New York,12531,,43655
+79729,for_sale,115000,,,1.8,16987,Hopewell Junction,New York,12533,,
+97116,for_sale,149000,,,1,1970392,Fishkill,New York,12582,,
+29020,for_sale,549990,4,3,0.51,1861543,Centereach,New York,11720,2171,
+29020,for_sale,499990,5,3,,1922399,Coram,New York,11727,,
+29020,for_sale,539990,5,3,,1922400,Coram,New York,11727,,
+15371,for_sale,459000,3,3,2.03,719212,Stormville,New York,12582,2746,36805
+11489,for_sale,799000,4,4,0.51,708548,Hopewell Junction,New York,12533,4606,42180
+97116,for_sale,550000,,,6.35,784509,Hopewell Junction,New York,12533,,
+70358,for_sale,255000,2,1,0.26,1430516,Carmel,New York,10512,1050,44095
+50635,for_sale,289900,3,2,0.47,1277756,Carmel,New York,10512,2288,36685
+81852,for_sale,325000,2,2,0.48,1666119,Hopewell Junction,New York,12533,1176,43293
+79729,for_sale,75800,,,5,1120117,Pawling,New York,12531,,
+10485,for_sale,350000,3,1,0.67,1031158,Hopewell Junction,New York,12533,1465,43123
+41532,for_sale,395000,4,3,1.35,1448374,Poughquag,New York,12570,2826,40844
+107956,for_sale,270000,,,6.8,1871153,Carmel,New York,14477,,28429
+13536,for_sale,430000,3,2,0.45,654309,Carmel,New York,10512,1876,39072
+41532,for_sale,497500,4,3,1.7,482247,Hopewell Junction,New York,12533,2868,36035
+105262,for_sale,670000,5,4,1.6,1476293,Stormville,New York,12582,3272,43718
+81852,for_sale,275000,3,1,0.31,1449377,New Windsor,New York,12533,1056,
+107872,for_sale,265000,2,1,3,823807,Carmel,New York,10512,650,38397
+77876,for_sale,525000,2,2,0.36,1418290,Poughquag,New York,12570,2083,34593
+41533,for_sale,550000,3,2,1.38,595622,Mahopac,New York,10541,2196,38013
+81852,for_sale,405930,3,3,,1053759,Hopewell Junction,New York,12570,1822,39615
+78206,for_sale,525000,3,2,1.03,254235,Carmel,New York,10512,1950,
+10485,for_sale,437500,3,2,1.07,1637423,Stormville,New York,12582,1887,35580
+41533,for_sale,429900,4,3,1.26,132813,Hopewell Junction,New York,12533,2188,32349
+10485,for_sale,700000,4,4,2.71,1725721,Hopewell Junction,New York,12533,4500,36763
+45488,for_sale,815000,4,4,0.48,1499800,Hopewell Junction,New York,12533,4400,42502
+45488,for_sale,75000,,,1.18,1369306,Carmel,New York,10512,,31344
+78357,for_sale,79000,,,1.54,704441,Stormville,New York,14477,,
+22611,for_sale,40000,,,0.58,522413,Carmel,New York,10512,,38657
+53232,for_sale,190000,,,10.98,810201,Holmes,New York,12531,,
+70358,for_sale,80000,,,1.23,438231,Stormville,New York,12582,,43746
+70358,for_sale,80000,,,1.75,1139062,Stormville,New York,12582,,43746
+97116,for_sale,175000,,,7.1,1970391,Stormville,New York,12585,,
+28990,for_sale,850000,,,24.42,1953494,Putnam Valley,New York,10579,,42774
+97116,for_sale,1100000,,,48.7,1970391,Stormville,New York,12582,,
+10485,for_sale,400000,3,3,0.26,281656,Stormville,New York,12582,1760,41704
+53332,for_sale,445000,4,2,0.72,1034774,Carmel,New York,10512,1976,41487
+108010,for_sale,565000,4,4,3.5,1101397,Stormville,New York,12582,3500,43549
+78357,for_sale,239000,2,1,0.49,482143,Carmel,New York,10512,976,42691
+48310,for_sale,424500,3,3,0.67,861890,Carmel,New York,10512,1547,44452
+10485,for_sale,475000,3,3,2.27,1609727,Carmel,New York,10512,1600,36112
+45488,for_sale,535000,4,3,1.3,796164,Stormville,New York,12582,3136,36038
+11489,for_sale,75000,,,1,894251,Hopewell Junction,New York,12533,,31574
+10485,for_sale,425000,3,2,0.54,1698127,Carmel,New York,10512,2324,44417
+22611,for_sale,399000,3,2,0.57,115258,Carmel,New York,10512,1487,43208
+53227,for_sale,895000,3,2,20,478786,Poughquag,New York,12570,2288,
+22611,for_sale,750000,4,3,0.93,1139731,Carmel,New York,10512,2792,
+63270,for_sale,749000,,,63.9,1296247,Holmes,New York,12531,,37189
+77876,for_sale,890000,,,73,1845848,Hopewell Junction,New York,12533,,43152
+10485,for_sale,410000,3,2,0.32,562199,Carmel,New York,10512,1576,35678
+53336,for_sale,92000,1,1,,890211,Hopewell Junction,New York,12533,700,
+45497,for_sale,375000,3,2,1.27,937616,Stormville,New York,12582,2264,32538
+81852,for_sale,539000,4,3,1.1,1548040,Stormville,New York,12582,2928,35482
+19426,for_sale,220000,2,1,0.08,1669135,Carmel,New York,10512,640,43895
+81852,for_sale,350000,3,2,0.95,1499455,Stormville,New York,12582,1456,44298
+78327,for_sale,399000,6,3,1.47,1773856,Carmel,New York,10541,1542,31687
+53332,for_sale,335000,2,1,0.17,871737,Carmel,New York,10512,1185,43705
+33714,for_sale,399000,4,2,0.44,763420,Carmel,New York,10512,1797,33514
+78357,for_sale,449000,3,2,1.03,289838,Putnam Valley,New York,10579,1360,42424
+46088,for_sale,875000,3,2,0.67,1203885,Putnam Valley,New York,10579,2055,44204
+28990,for_sale,725000,3,3,1.38,137092,Carmel,New York,10512,2400,37525
+53332,for_sale,195000,1,1,0.16,1121597,Poughquag,New York,12570,900,34110
+30536,for_sale,250000,,,10,1870681,Stormville,New York,12582,,
+2469,for_sale,441744,,,6.87,727583,Carmel,New York,10512,,
+77876,for_sale,650000,,,38.3,602992,Stormville,New York,12582,,
+45490,for_sale,220000,2,1,0.18,956179,Carmel,New York,10512,864,
+45488,for_sale,449000,3,3,1.29,1451386,Carmel,New York,10512,2496,40819
+78357,for_sale,729900,4,3,1.19,1597947,Carmel,New York,10512,4220,37568
+22611,for_sale,550000,3,2,0.56,1815626,Carmel,New York,10512,1624,44245
+91607,for_sale,319000,2,1,0.14,168055,Sound Beach,New York,11789,,
+29020,for_sale,589990,3,2,0.75,344185,Stony Brook,New York,11790,1767,
+81852,for_sale,715000,4,4,2.57,1540122,Hopewell Junction,New York,12533,4795,42369
+41532,for_sale,629000,3,3,2.09,729916,Stormville,New York,12582,3316,35697
+81852,for_sale,399000,2,1,2.1,770081,Hopewell Junction,New York,12533,1040,
+107997,for_sale,355000,3,1,0.09,1725532,Carmel,New York,10512,1244,37470
+41533,for_sale,540000,4,3,0.71,1610010,Poughquag,New York,12570,3360,42499
+53332,for_sale,329900,2,3,0.18,1471141,Carmel,New York,10512,1686,41208
+105684,for_sale,299999,2,1,0.54,198199,Carmel,New York,10512,856,35600
+45488,for_sale,190000,,,4.4,1906933,Putnam Valley,New York,10579,,
+53332,for_sale,300000,2,2,0.39,1667709,Holmes,New York,12531,1232,42877
+45498,for_sale,585000,3,3,0.35,481323,Carmel,New York,10512,2740,43262
+53016,for_sale,319900,2,1,0.23,1436165,Holmes,New York,12531,756,30378
+44039,for_sale,379000,2,1,0.28,523155,Carmel,New York,10512,1440,40928
+8510,for_sale,425000,3,2,0.75,199163,Carmel Hamlet,New York,10512,1300,
+91607,for_sale,265000,2,2,0.07,350012,Coram,New York,11727,,38734
+91607,for_sale,579000,4,3,0.3,13623,South Setauket,New York,11720,,
+43470,for_sale,1349000,5,5,2.63,481590,Old Field,New York,11733,3139,33072
+78729,for_sale,379900,3,2,0.18,1245565,Centereach,New York,11720,1123,39785
+29022,for_sale,149990,,,0.11,11905,Centereach,New York,11720,,
+22022,for_sale,1399000,5,3,0.09,270248,Setauket,New York,11733,3528,44357
+21554,for_sale,424999,,,0.83,1923716,Mount Sinai,New York,11766,,38897
+19756,for_sale,269000,,,0.34,1984025,Miller Place,New York,11764,,
+46092,for_sale,325000,4,1,0.13,1758492,Poughquag,New York,12570,2865,42194
+53332,for_sale,325000,3,2,1.02,847375,Carmel,New York,10512,1852,43110
+22257,for_sale,499000,3,3,2.04,1645297,Carmel,New York,10512,2530,35599
+53332,for_sale,299000,2,1,0.28,602819,Carmel,New York,10512,722,34123
+107292,for_sale,365000,2,1,,1801151,Carmel,New York,10512,1500,31364
+45490,for_sale,399000,3,2,0.41,793112,Carmel,New York,10512,1386,36934
+13536,for_sale,850000,4,4,1.38,438747,Carmel,New York,10512,4124,32324
+68036,for_sale,285000,2,2,0.28,1052015,Carmel,New York,10512,1539,44267
+22611,for_sale,495000,3,3,2.05,115592,Hopewell Junction,New York,12533,1968,30585
+41532,for_sale,495900,3,2,3.49,696949,Hopewell Junction,New York,12533,2196,36035
+97116,for_sale,165000,,,1.7,1970391,Stormville,New York,12582,,
+45484,for_sale,499999,4,2,0.46,562639,Wading River,New York,11792,1854,31761
+33714,for_sale,589999,4,3,0.5,1395424,Middle Island,New York,11953,2500,
+13536,for_sale,125000,,,11,1406849,Carmel,New York,10512,,30956
+39734,for_sale,599000,,,91.3,1378303,Patterson,New York,12563,,
+97116,for_sale,75000,,,0.42,1953574,Stormville,New York,12582,,
+97116,for_sale,149900,,,23.2,1861541,Hopewell Junction,New York,12533,,
+15493,for_sale,550000,3,3,0.5,482111,Coram,New York,11727,,41471
+22022,for_sale,170000,,,0.21,1854838,Sound Beach,New York,11789,,39695
+78729,for_sale,799000,5,3,0.33,1511123,Selden,New York,11784,,42013
+53221,for_sale,369000,3,2,0.05,21438,Coram,New York,11727,,41684
+22022,for_sale,389000,3,1,0.15,1572454,Port Jefferson Station,New York,11776,,43972
+83061,for_sale,199000,3,2,0.14,1447293,Sound Beach,New York,11789,2000,40281
+28981,for_sale,2350000,6,4,1.74,1784536,Setauket,New York,11733,,37746
+91607,for_sale,389999,2,2,0.5,1137173,Centereach,New York,11720,,44530
+35026,for_sale,205500,1,1,,1205384,Ridge,New York,11961,,41675
+21554,for_sale,579000,3,3,0.23,1927798,Rocky Point,New York,11778,1920,
+29020,for_sale,129900,1,1,,1437875,Rocky Point,New York,11778,900,
+22022,for_sale,699990,5,3,0.92,891382,Wading River,New York,11792,,35174
+28981,for_sale,589000,4,3,0.04,1447095,Mount Sinai,New York,11766,,38693
+83061,for_sale,580000,4,3,0.46,1499898,Centereach,New York,11720,1900,
+83057,for_sale,449000,4,3,0.37,1136258,Coram,New York,11727,,42388
+22022,for_sale,587500,2,2,0.5,764776,Setauket,New York,11733,,31225
+29022,for_sale,110000,,,0.06,732770,Selden,New York,11784,,38252
+13975,for_sale,849900,4,3,0.46,1927796,Wading River,New York,11792,2400,44461
+19756,for_sale,269000,,,0.26,1889607,Miller Place,New York,11764,,
+28989,for_sale,585000,4,3,0.33,1116258,Setauket,New York,11733,,38677
+91399,for_sale,515000,2,2,0.9,1653164,Selden,New York,11784,,38128
+22022,for_sale,610000,6,5,0.34,1310977,Coram,New York,11727,,43454
+50608,for_sale,615000,7,4,0.51,763725,Port Jefferson,New York,11777,3200,43522
+22022,for_sale,667000,4,4,0.35,522188,Stony Brook,New York,11790,,42328
+53221,for_sale,474900,3,2,0.21,249300,Selden,New York,11784,,44522
+83059,for_sale,499999,4,2,0.52,1311525,Setauket,New York,11733,,38219
+5697,for_sale,133000,1,1,,562347,Coram,New York,11727,,
+50608,for_sale,769000,4,4,0.25,204573,Port Jefferson,New York,11777,2950,
+22022,for_sale,399990,3,2,1,106914,Middle Island,New York,11953,,44489
+91607,for_sale,380000,3,2,0.18,574095,Port Jefferson Station,New York,11776,,
+79314,for_sale,360000,3,3,0.04,1179869,Coram,New York,11727,,43042
+91607,for_sale,549999,3,3,0.71,1249105,Wading River,New York,11792,,
+50608,for_sale,679000,3,4,0.36,10909,Port Jefferson,New York,11777,2000,36752
+22022,for_sale,429999,3,2,0.21,1071301,Selden,New York,11784,,38897
+78729,for_sale,450000,3,2,0.25,916545,Centereach,New York,11720,,37852
+91607,for_sale,349999,4,2,0.26,654350,Port Jefferson Station,New York,11776,,
+91607,for_sale,1099000,4,4,0.75,1449708,Setauket,New York,11733,3700,
+42297,for_sale,985000,5,6,0.7,601249,Mount Sinai,New York,11766,6900,38268
+91607,for_sale,629999,5,4,0.2,1336134,Selden,New York,11784,,43880
+53526,for_sale,549999,4,3,0.36,1297585,Coram,New York,11727,2512,44357
+30510,for_sale,475000,3,2,0.14,1308124,Rocky Point,New York,11778,,44145
+28974,for_sale,475000,3,1,0.23,917582,Ronkonkoma,New York,11779,,39336
